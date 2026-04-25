@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "profg-transcript"
+version = "0.1.0"
+description = "Daily Prof G Markets transcript emailer"
+requires-python = ">=3.11"
+readme = "README.md"
+dependencies = [
+    "groq>=1.2.0",
+    "imageio-ffmpeg>=0.6.0",
+]
+
+[project.scripts]
+profg-transcript = "profg_transcript.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,2511 @@
+{
+  "episodes": {
+    "000f9c60-fc0c-11ee-8dea-abece1c20158": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6004686856.mp3?updated=1718579995",
+      "guid": "000f9c60-fc0c-11ee-8dea-abece1c20158",
+      "publication_date": "2024-06-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Raspberry Pi\u2019s London IPO & Mistral\u2019s $640M Funding Round"
+    },
+    "004556b6-fc0c-11ee-8dea-bb6aa1577fc0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7542054521.mp3?updated=1718840133",
+      "guid": "004556b6-fc0c-11ee-8dea-bb6aa1577fc0",
+      "publication_date": "2024-06-20",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Changing World Order & the Power of Diversification \u2014 ft. Ray Dalio"
+    },
+    "02988b7a-1fbc-11f0-b820-03fea378edda": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8814376254.mp3?updated=1754363892",
+      "guid": "02988b7a-1fbc-11f0-b820-03fea378edda",
+      "publication_date": "2025-08-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump Fires BLS Chief, Elon\u2019s $29B Pay Day & American Eagle Stock Soars Again"
+    },
+    "02aa8dd4-1fbc-11f0-b820-cbe067517347": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6746278881.mp3?updated=1754450626",
+      "guid": "02aa8dd4-1fbc-11f0-b820-cbe067517347",
+      "publication_date": "2025-08-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Who Will Replace Jerome Powell? Tesla Hit with Securities Fraud Suit & AMD\u2019s Q2 Earnings"
+    },
+    "030796a0-1fbc-11f0-b820-475ac12bd3bb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2920940696.mp3?updated=1756179665",
+      "guid": "030796a0-1fbc-11f0-b820-475ac12bd3bb",
+      "publication_date": "2025-08-26",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "U.S. Takes 10% Stake in Intel, Powell\u2019s Jackson Hole Speech + OnlyFans\u2019 $7B Boom"
+    },
+    "031944b8-1fbc-11f0-b820-2b00c51bf576": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7205834937.mp3?updated=1756264913",
+      "guid": "031944b8-1fbc-11f0-b820-2b00c51bf576",
+      "publication_date": "2025-08-27",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump Fires Fed Governor Cook, Eli Lilly\u2019s Weight Loss Pill & How to Not Get Replaced by AI"
+    },
+    "054f701c-a929-11f0-8486-f321f144c88c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9612551246.mp3?updated=1768878166",
+      "guid": "054f701c-a929-11f0-8486-f321f144c88c",
+      "publication_date": "2026-01-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Europe Braces for Trump\u2019s Greenland Tariffs"
+    },
+    "0cb09d50-1fbc-11f0-bdbd-bf0e931586a4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2806851341.mp3?updated=1753996182",
+      "guid": "0cb09d50-1fbc-11f0-bdbd-bf0e931586a4",
+      "publication_date": "2025-08-01",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The 2025 Rally: Real Strength or Market Mirage? \u2014 ft. Kevin Gordon"
+    },
+    "0cc67ce2-1fbc-11f0-bdbd-2325cf47dedb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4489580214.mp3?updated=1754614521",
+      "guid": "0cc67ce2-1fbc-11f0-bdbd-2325cf47dedb",
+      "publication_date": "2025-08-08",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Country Risk, Tech Valuations, & How the Markets Lost their Predictive Power \u2014 ft. Aswath Damodaran"
+    },
+    "0d083de4-1fbc-11f0-bdbd-ef3d32680103": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6264513561.mp3?updated=1756416116",
+      "guid": "0d083de4-1fbc-11f0-bdbd-ef3d32680103",
+      "publication_date": "2025-08-29",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why the U.S. is on the Precipice of a Recession \u2014 ft. Mark Zandi"
+    },
+    "172384e6-1fbc-11f0-8661-2be7a2088243": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5589954673.mp3?updated=1756870157",
+      "guid": "172384e6-1fbc-11f0-8661-2be7a2088243",
+      "publication_date": "2025-09-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Stocks Fall to Start September, Kraft Heinz Breaks Up & Why Constellation Brands Has a Beer Problem"
+    },
+    "1734e786-1fbc-11f0-8661-4f76282626f1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9084659332.mp3?updated=1757393270",
+      "guid": "1734e786-1fbc-11f0-8661-4f76282626f1",
+      "publication_date": "2025-09-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Silicon Valley Dines with Trump, August Jobs Slump & Elon\u2019s $1T Pay Package"
+    },
+    "1746b2ae-1fbc-11f0-8661-abe488c47a77": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5587747814.mp3?updated=1757473037",
+      "guid": "1746b2ae-1fbc-11f0-8661-abe488c47a77",
+      "publication_date": "2025-09-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why China is Rearing For a Bull Run & The Largest Jobs Revision Ever"
+    },
+    "1758e078-1fbc-11f0-8661-d3052b7357f6": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7679877856.mp3?updated=1757992637",
+      "guid": "1758e078-1fbc-11f0-8661-d3052b7357f6",
+      "publication_date": "2025-09-16",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "U.S. & China Strike TikTok Deal? Paramount\u2019s WBD Bid & Robinhood\u2019s New Social Platform"
+    },
+    "176b88e0-1fbc-11f0-8661-1f162a102eb6": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2075008375.mp3?updated=1758076702",
+      "guid": "176b88e0-1fbc-11f0-8661-1f162a102eb6",
+      "publication_date": "2025-09-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Retail Sales Rise on Strength of the Rich & Senate Confirms Stephen Miran to the Fed"
+    },
+    "177ea632-1fbc-11f0-8661-072436eb58c9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5828791879.mp3?updated=1758596458",
+      "guid": "177ea632-1fbc-11f0-8661-072436eb58c9",
+      "publication_date": "2025-09-23",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What the $100K H-1B Visa Fee Means for Big Tech + TikTok Deal Details Emerge"
+    },
+    "179273e2-1fbc-11f0-8661-07ff6fd1245e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2671624460.mp3?updated=1758682622",
+      "guid": "179273e2-1fbc-11f0-8661-07ff6fd1245e",
+      "publication_date": "2025-09-24",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "$100B Nvidia-OpenAI Deal: Growth or Financial Engineering? & Oura Ring\u2019s $11B Valuation"
+    },
+    "17a427b8-1fbc-11f0-8661-df2df6480b02": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6758307079.mp3?updated=1759205584",
+      "guid": "17a427b8-1fbc-11f0-8661-df2df6480b02",
+      "publication_date": "2025-09-30",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "EA Goes Private for $55B in Biggest LBO Ever, U.S. TikTok Valued at $14B & GDP Revised Upward"
+    },
+    "17fa2396-72d9-11f0-8664-070343567cef": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2980224154.mp3?updated=1767921266",
+      "guid": "17fa2396-72d9-11f0-8664-070343567cef",
+      "publication_date": "2026-01-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why the AI Bubble Hasn\u2019t Popped \u2014 ft. Josh Brown"
+    },
+    "180d6a6e-72d9-11f0-8664-97921e057fdd": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4506568404.mp3?updated=1768519651",
+      "guid": "180d6a6e-72d9-11f0-8664-97921e057fdd",
+      "publication_date": "2026-01-16",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Your Brain is the Worst Investor in the Room \u2014 ft. Scott Nations"
+    },
+    "182097f6-72d9-11f0-8664-efa939645258": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3815099562.mp3?updated=1769115737",
+      "guid": "182097f6-72d9-11f0-8664-efa939645258",
+      "publication_date": "2026-01-23",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "David Solomon on AI, Debt, and America\u2019s Future"
+    },
+    "1832ebb8-72d9-11f0-8664-2b6ca4f94a78": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7122796223.mp3?updated=1769737427",
+      "guid": "1832ebb8-72d9-11f0-8664-2b6ca4f94a78",
+      "publication_date": "2026-01-30",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Something Has Broken In The U.S. \u2014 ft. Katie Martin"
+    },
+    "18470bf2-72d9-11f0-8664-8b7b1a397439": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8985179339.mp3?updated=1770332805",
+      "guid": "18470bf2-72d9-11f0-8664-8b7b1a397439",
+      "publication_date": "2026-02-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The American Affordability Crisis \u2014 ft. Neera Tanden"
+    },
+    "185bf454-72d9-11f0-8664-4fe4d62e6b6f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7293499377.mp3?updated=1770937510",
+      "guid": "185bf454-72d9-11f0-8664-4fe4d62e6b6f",
+      "publication_date": "2026-02-13",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The World Is In a Doom Loop \u2014 ft. Eswar Prasad"
+    },
+    "18703806-72d9-11f0-8664-6f2f0cdfaa9f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9107415201.mp3?updated=1771542264",
+      "guid": "18703806-72d9-11f0-8664-6f2f0cdfaa9f",
+      "publication_date": "2026-02-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Markets are Ignoring Catastrophic Risks \u2014 ft. Aswath Damodaran"
+    },
+    "188379e8-72d9-11f0-8664-dffe8e526c13": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5003936339.mp3?updated=1772150844",
+      "guid": "188379e8-72d9-11f0-8664-dffe8e526c13",
+      "publication_date": "2026-02-27",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Prediction Markets vs. Gambling: Where\u2019s the Line? \u2014 ft. Tarek Mansour"
+    },
+    "18968196-72d9-11f0-8664-af2c744129a1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2065729586.mp3?updated=1772754825",
+      "guid": "18968196-72d9-11f0-8664-af2c744129a1",
+      "publication_date": "2026-03-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Private Credit The Next 2008? \u2014 ft. Steve Eisman"
+    },
+    "18a89188-72d9-11f0-8664-dbe6b715adbe": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6287676932.mp3?updated=1773363804",
+      "guid": "18a89188-72d9-11f0-8664-dbe6b715adbe",
+      "publication_date": "2026-03-13",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "You Think You're Diversified, AI Disagrees \u2014 ft. Torsten Slok"
+    },
+    "18bb8f40-72d9-11f0-8664-df4165cc6ace": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1300391884.mp3?updated=1773970977",
+      "guid": "18bb8f40-72d9-11f0-8664-df4165cc6ace",
+      "publication_date": "2026-03-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The 35% Recession Warning Markets Are Ignoring \u2014 ft. Ed Yardeni"
+    },
+    "18cdd682-72d9-11f0-8664-dbb07b222477": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1317822642.mp3?updated=1774565205",
+      "guid": "18cdd682-72d9-11f0-8664-dbb07b222477",
+      "publication_date": "2026-03-27",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The AI Divide: Who Wins and Who Gets Replaced \u2014 ft. Bill Gurley"
+    },
+    "20a2f7f4-9605-11ef-98e8-dbb22701363b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1013031762.mp3?updated=1740302116",
+      "guid": "20a2f7f4-9605-11ef-98e8-dbb22701363b",
+      "publication_date": "2025-01-20",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The TikTok Showdown, UnitedHealth\u2019s First Earnings Post-Shooting, and a Banking Boom"
+    },
+    "20e6a4ae-9605-11ef-98e8-678675aa8bfb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9361473777.mp3?updated=1742841130",
+      "guid": "20e6a4ae-9605-11ef-98e8-678675aa8bfb",
+      "publication_date": "2025-02-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Reddit Undervalued? + Netflix Goes After Podcasts"
+    },
+    "20fa4950-9605-11ef-98e8-cf5577b5e949": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5917323954.mp3?updated=1748216727",
+      "guid": "20fa4950-9605-11ef-98e8-cf5577b5e949",
+      "publication_date": "2025-05-26",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Story of Scott\u2019s Career"
+    },
+    "210dc124-9605-11ef-98e8-730c1c93de22": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5956470715.mp3?updated=1750304483",
+      "guid": "210dc124-9605-11ef-98e8-730c1c93de22",
+      "publication_date": "2025-06-19",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nippon & U.S. Steel Deal Closes, Fed Holds Steady, and YouTube Wins Over Older Viewers"
+    },
+    "22921a68-1fbc-11f0-9e28-abea4975cb6a": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2017750474.mp3?updated=1757040580",
+      "guid": "22921a68-1fbc-11f0-9e28-abea4975cb6a",
+      "publication_date": "2025-09-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How America Goes Broke \u2014 ft. Ray Dalio"
+    },
+    "22a3feea-1fbc-11f0-9e28-df497e33316e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6863184178.mp3?updated=1757654164",
+      "guid": "22a3feea-1fbc-11f0-9e28-df497e33316e",
+      "publication_date": "2025-09-12",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why the AI Revolution Could Make or Break the Economy \u2014 ft. Justin Wolfers"
+    },
+    "22b5f140-1fbc-11f0-9e28-2b9f395ec1a3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1247710932.mp3?updated=1758251453",
+      "guid": "22b5f140-1fbc-11f0-9e28-2b9f395ec1a3",
+      "publication_date": "2025-09-19",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Britain\u2019s Economy Is Broken \u2014 ft. Jagjit Chadha"
+    },
+    "22c7b1a0-1fbc-11f0-9e28-a38aa668376e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8380941346.mp3?updated=1758837839",
+      "guid": "22c7b1a0-1fbc-11f0-9e28-a38aa668376e",
+      "publication_date": "2025-09-26",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "AI, TikTok, and the Battle for Media\u2019s Future \u2014 ft. Mark Cuban"
+    },
+    "23af0d76-1fbb-11f0-843a-ebedd6847369": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1607906663.mp3?updated=1751347410",
+      "guid": "23af0d76-1fbb-11f0-843a-ebedd6847369",
+      "publication_date": "2025-07-01",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Meta-OpenAI Talent War, Canada Drops its Tech Tax & a GOP Blow to Clean Energy"
+    },
+    "23cd8ed6-1fbb-11f0-843a-df62b4f921ca": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7883621671.mp3?updated=1751426496",
+      "guid": "23cd8ed6-1fbb-11f0-843a-df62b4f921ca",
+      "publication_date": "2025-07-02",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump-Elon Feud Reignites, Manufacturing Activity Contracts (Again) & Robinhood Tokenizes Stocks"
+    },
+    "23edb968-1fbb-11f0-843a-e3eee96fd8e5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5290225384.mp3?updated=1751947667",
+      "guid": "23edb968-1fbb-11f0-843a-e3eee96fd8e5",
+      "publication_date": "2025-07-08",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump Unveils Steep New Tariffs, TikTok Develops App for U.S. & CoreWeave\u2019s $9B Acquisition"
+    },
+    "240b717e-1fbb-11f0-843a-87e4aadb2cf8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6495795258.mp3?updated=1752031359",
+      "guid": "240b717e-1fbb-11f0-843a-87e4aadb2cf8",
+      "publication_date": "2025-07-09",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Shein\u2019s Hong Kong IPO, 50% Tariffs on Copper? & Why China is Winning the EV Race"
+    },
+    "241f29a8-1fbb-11f0-843a-47c442be4aab": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3775642267.mp3?updated=1752551272",
+      "guid": "241f29a8-1fbb-11f0-843a-47c442be4aab",
+      "publication_date": "2025-07-15",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Crypto Week Kicks Off in Congress, Will Tesla Invest in xAI? & Google\u2019s $2.4B Windsurf Deal"
+    },
+    "2432b66c-1fbb-11f0-843a-b3f5e8500909": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4117355021.mp3?updated=1752633838",
+      "guid": "2432b66c-1fbb-11f0-843a-b3f5e8500909",
+      "publication_date": "2025-07-16",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Inflation Ticks Up, U.S. Lifts China Chip Ban & The Department of Defense Teams Up with Big Tech"
+    },
+    "24467ef4-1fbb-11f0-843a-2b1580986304": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5953322742.mp3?updated=1753919081",
+      "guid": "24467ef4-1fbb-11f0-843a-2b1580986304",
+      "publication_date": "2025-07-22",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Netflix Overvalued? LVMH Bets on Private Jets & Crypto Custody Firm BitGo Files for an IPO"
+    },
+    "245a2cc4-1fbb-11f0-843a-539b38b6d9c3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4876888162.mp3?updated=1753919056",
+      "guid": "245a2cc4-1fbb-11f0-843a-539b38b6d9c3",
+      "publication_date": "2025-07-23",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Will Anti-Woke Free Press Join CBS? Philip Morris Falls on ZYN Slowdown & Coke\u2019s Cane Sugar Shift"
+    },
+    "246e6ef0-1fbb-11f0-843a-ef3ee5f2ed49": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4537182675.mp3?updated=1753919108",
+      "guid": "246e6ef0-1fbb-11f0-843a-ef3ee5f2ed49",
+      "publication_date": "2025-07-29",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Who Wins in the U.S.-EU \u201cDeal\u201d? Wall Street Turns Bullish on Nike & Anthropic\u2019s $150B Valuation"
+    },
+    "24824bc8-1fbb-11f0-843a-733da796c1f0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1150722007.mp3?updated=1753919079",
+      "guid": "24824bc8-1fbb-11f0-843a-733da796c1f0",
+      "publication_date": "2025-07-30",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Novo Nordisk Tanks 30%, P&G Takes a Tariff Hit & SoFi\u2019s Monster Second Quarter"
+    },
+    "24bb551c-46f3-11f0-8a49-6b26d2f70f5e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9042704724.mp3?updated=1749667726",
+      "guid": "24bb551c-46f3-11f0-8a49-6b26d2f70f5e",
+      "publication_date": "2024-05-05",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Talking About Money...Every Day of the Week"
+    },
+    "30644798-1fbb-11f0-9358-1f60f84f530b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1819800809.mp3?updated=1752194652",
+      "guid": "30644798-1fbb-11f0-9358-1f60f84f530b",
+      "publication_date": "2025-07-11",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "State of Play in the Rideshare Wars \u2014 ft. David Risher, CEO of Lyft"
+    },
+    "3078bca0-1fbb-11f0-9358-7b247efc715f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9370664757.mp3?updated=1753921008",
+      "guid": "3078bca0-1fbb-11f0-9358-7b247efc715f",
+      "publication_date": "2025-07-18",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Biggest Risks and Opportunities in Latin America \u2014 ft. Monica de Bolle"
+    },
+    "308c4842-1fbb-11f0-9358-cbae1fb08599": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8554252377.mp3?updated=1753920963",
+      "guid": "308c4842-1fbb-11f0-9358-cbae1fb08599",
+      "publication_date": "2025-07-25",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Scott Invested In Vertical Aerospace \u2014 ft. Stuart Simpson"
+    },
+    "34f18e14-8353-11f0-939a-83ef9f227d93": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7866482329.mp3?updated=1756784418",
+      "guid": "34f18e14-8353-11f0-939a-83ef9f227d93",
+      "publication_date": "2025-09-02",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Federal Appeals Court Strikes Down Trump\u2019s Tariffs & De Minimis Loophole is Closed"
+    },
+    "3b6d6e58-0bcb-11ef-8b9d-cff61813dc13": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2088661422.mp3?updated=1719184663",
+      "guid": "3b6d6e58-0bcb-11ef-8b9d-cff61813dc13",
+      "publication_date": "2024-06-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Netflix\u2019s New Entertainment Venues & Scott\u2019s Takeaways from Cannes"
+    },
+    "3baf0728-0bcb-11ef-8b9d-67286bc249f9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9384453963.mp3?updated=1719436095",
+      "guid": "3baf0728-0bcb-11ef-8b9d-67286bc249f9",
+      "publication_date": "2024-06-27",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How Stoicism Makes Us Better at Money \u2014 ft. Ryan Holiday"
+    },
+    "3bcbb88c-0bcb-11ef-8b9d-5b9ca7141794": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1230337690.mp3?updated=1719791868",
+      "guid": "3bcbb88c-0bcb-11ef-8b9d-5b9ca7141794",
+      "publication_date": "2024-07-01",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Rivian and Volkswagen\u2019s New Partnership + Scott\u2019s Tax Strategy"
+    },
+    "3be62e60-0bcb-11ef-8b9d-df2db762a7c3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6978925038.mp3?updated=1720391791",
+      "guid": "3be62e60-0bcb-11ef-8b9d-df2db762a7c3",
+      "publication_date": "2024-07-08",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How the Debate Moved the Market & Wall Street\u2019s Take on Trump - with Josh Brown"
+    },
+    "3c01977c-0bcb-11ef-8b9d-976ff44cd860": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3202893048.mp3?updated=1720669726",
+      "guid": "3c01977c-0bcb-11ef-8b9d-976ff44cd860",
+      "publication_date": "2024-07-11",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Project 2025 & An Inside Scoop on Trump\u2019s Presidency \u2014 ft. Anthony Scaramucci"
+    },
+    "3c1c5d78-0bcb-11ef-8b9d-4bbff3d23f6f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4889614555.mp3?updated=1720990007",
+      "guid": "3c1c5d78-0bcb-11ef-8b9d-4bbff3d23f6f",
+      "publication_date": "2024-07-15",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nike\u2019s Dramatic Downfall & Britain\u2019s Road to Economic Recovery"
+    },
+    "3c36c8fc-0bcb-11ef-8b9d-f7529fe50e61": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2746566650.mp3?updated=1721277475",
+      "guid": "3c36c8fc-0bcb-11ef-8b9d-f7529fe50e61",
+      "publication_date": "2024-07-18",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Trump Trade & The Vibecession \u2014 ft. Kyla Scanlon"
+    },
+    "3c51a26c-0bcb-11ef-8b9d-0b3b04caff7c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4131184657.mp3?updated=1721614627",
+      "guid": "3c51a26c-0bcb-11ef-8b9d-0b3b04caff7c",
+      "publication_date": "2024-07-22",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why is Silicon Valley Backing Trump? + A Glasses Company Acquires Supreme"
+    },
+    "3c6c577e-0bcb-11ef-8b9d-f348c6057e82": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5460765830.mp3?updated=1721872493",
+      "guid": "3c6c577e-0bcb-11ef-8b9d-f348c6057e82",
+      "publication_date": "2024-07-25",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Harris vs. Trump: The Markets React \u2014 ft. Robert Armstrong"
+    },
+    "3c86e1a2-0bcb-11ef-8b9d-4b9d158b3b49": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2350511483.mp3?updated=1722225176",
+      "guid": "3c86e1a2-0bcb-11ef-8b9d-4b9d158b3b49",
+      "publication_date": "2024-07-29",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Will Tesla\u2019s Robotaxi Ever Arrive? + Sin Stocks and Zyn Nicotine Pouches"
+    },
+    "3ca39518-0bcb-11ef-8b9d-3326e796b5ed": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5195439844.mp3?updated=1722482716",
+      "guid": "3ca39518-0bcb-11ef-8b9d-3326e796b5ed",
+      "publication_date": "2024-08-01",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Ozempic Bites McDonald\u2019s, Trump\u2019s Bitcoin Promise, & A Tesla Bull Makes His Case \u2014 ft. Dan Ives"
+    },
+    "3cbe51c8-0bcb-11ef-8b9d-1ff115d2351c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5063401417.mp3?updated=1722820936",
+      "guid": "3cbe51c8-0bcb-11ef-8b9d-1ff115d2351c",
+      "publication_date": "2024-08-05",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is AI CapEx Out of Control? + Bill Ackman\u2019s IPO Failure"
+    },
+    "3cd96e18-0bcb-11ef-8b9d-fba3c6747913": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9280307083.mp3?updated=1723075358",
+      "guid": "3cd96e18-0bcb-11ef-8b9d-fba3c6747913",
+      "publication_date": "2024-08-08",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Stocks Corrected + Second Quarter Tech Earnings \u2014 ft. Mark Mahaney"
+    },
+    "3ce03e94-bfe5-11f0-a953-bbffcbf60f02": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7969563572.mp3?updated=1775176967",
+      "guid": "3ce03e94-bfe5-11f0-a953-bbffcbf60f02",
+      "publication_date": "2026-04-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Marriage Is the Biggest Financial Risk You\u2019ll Take \u2014 ft. James Sexton"
+    },
+    "3cf6b4a0-0bcb-11ef-8b9d-eb6178fd6031": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2505712193.mp3?updated=1723332206",
+      "guid": "3cf6b4a0-0bcb-11ef-8b9d-eb6178fd6031",
+      "publication_date": "2024-08-12",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Breaking Down the Google Monopoly Ruling \u2014 ft. Rebecca Allensworth"
+    },
+    "3d13c20c-0bcb-11ef-8b9d-0b3d3bc6feff": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1759895022.mp3?updated=1723063893",
+      "guid": "3d13c20c-0bcb-11ef-8b9d-0b3d3bc6feff",
+      "publication_date": "2024-08-15",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How to Build a Rich Life \u2014 ft. Ramit Sethi"
+    },
+    "3d3012b8-0bcb-11ef-8b9d-4b30331fd4d3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8294193299.mp3?updated=1723240138",
+      "guid": "3d3012b8-0bcb-11ef-8b9d-4b30331fd4d3",
+      "publication_date": "2024-08-19",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Prof G Markets: How Scott Navigates Money with His Family"
+    },
+    "3d31c0f2-bfe5-11f0-a953-af45424788f1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8213502169.mp3?updated=1775411323",
+      "guid": "3d31c0f2-bfe5-11f0-a953-af45424788f1",
+      "publication_date": "2026-04-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How to Invest When Nothing Makes Sense"
+    },
+    "3d4cfcc8-bfe5-11f0-a953-3f51c5a34701": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8458889366.mp3?updated=1775771325",
+      "guid": "3d4cfcc8-bfe5-11f0-a953-3f51c5a34701",
+      "publication_date": "2026-04-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The \u201cCeasefire\u201d Won\u2019t Save The Economy \u2014 ft. Mark Zandi"
+    },
+    "3d4d48b0-0bcb-11ef-8b9d-5f18cae5bde1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7598271199.mp3?updated=1723240806",
+      "guid": "3d4d48b0-0bcb-11ef-8b9d-5f18cae5bde1",
+      "publication_date": "2024-08-22",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Corporate Lifecycle + The Market\u2019s Fallen Heroes \u2014 ft. Aswath Damodaran"
+    },
+    "3d642d94-bfe5-11f0-a953-cf5dbf48c3bc": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7056553412.mp3?updated=1776033423",
+      "guid": "3d642d94-bfe5-11f0-a953-cf5dbf48c3bc",
+      "publication_date": "2026-04-13",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Don't Try to Beat This Market \u2014 Here's What to Do Instead"
+    },
+    "3d6c3996-0bcb-11ef-8b9d-cf7f930205d9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3342927748.mp3?updated=1724435708",
+      "guid": "3d6c3996-0bcb-11ef-8b9d-cf7f930205d9",
+      "publication_date": "2024-08-26",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Ask Us Anything \u2014 Scott and Ed Answer Your Questions"
+    },
+    "3d7dd348-bfe5-11f0-a953-cf1b38000643": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6956967084.mp3?updated=1776375435",
+      "guid": "3d7dd348-bfe5-11f0-a953-cf1b38000643",
+      "publication_date": "2026-04-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is the Labor Market About to Tip Us Into Recession? \u2014 ft. Kathryn Anne Edwards"
+    },
+    "3d8aa610-0bcb-11ef-8b9d-43f62a6f6faf": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8099775063.mp3?updated=1722876152",
+      "guid": "3d8aa610-0bcb-11ef-8b9d-43f62a6f6faf",
+      "publication_date": "2024-08-29",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Democratizing the Private Markets \u2014 ft. Ben Miller"
+    },
+    "3d9414f0-bfe5-11f0-a953-5f3ac8f59e4c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2582745626.mp3?updated=1776626182",
+      "guid": "3d9414f0-bfe5-11f0-a953-5f3ac8f59e4c",
+      "publication_date": "2026-04-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Stocks Rip to Record Highs, Leaving War in the Dust"
+    },
+    "3da7a8e6-0bcb-11ef-8b9d-9390ef2d9f96": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9872635803.mp3?updated=1725501502",
+      "guid": "3da7a8e6-0bcb-11ef-8b9d-9390ef2d9f96",
+      "publication_date": "2024-09-05",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Nvidia in Trouble? + Government Seeded Investment Accounts For Kids \u2014 ft. Brad Gerstner"
+    },
+    "3dad2c1a-bfe5-11f0-a953-b755b386b91d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2700245368.mp3?updated=1776992890",
+      "guid": "3dad2c1a-bfe5-11f0-a953-b755b386b91d",
+      "publication_date": "2026-04-24",
+      "resend_email_id": "dcbda94b-11b2-410e-b358-6f101898cd33",
+      "sent_at": "2026-04-25T13:57:43.601369Z",
+      "status": "sent",
+      "title": "The AI Job Crisis Andrew Yang Saw Coming"
+    },
+    "3dc476ce-0bcb-11ef-8b9d-8b57aecd8849": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2844469188.mp3?updated=1725842628",
+      "guid": "3dc476ce-0bcb-11ef-8b9d-8b57aecd8849",
+      "publication_date": "2024-09-09",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Are Millionaires Moving Abroad? + The Biggest Deals in Podcasting"
+    },
+    "3de3bcf0-0bcb-11ef-8b9d-fbdf55fcad3d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4004242527.mp3?updated=1726113865",
+      "guid": "3de3bcf0-0bcb-11ef-8b9d-fbdf55fcad3d",
+      "publication_date": "2024-09-12",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What the 2024 Rate Cutting Cycle Could Mean For Investors \u2014 ft. Lyn Alden"
+    },
+    "3e01fad0-0bcb-11ef-8b9d-b37f28b663a4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7529838170.mp3?updated=1726454694",
+      "guid": "3e01fad0-0bcb-11ef-8b9d-b37f28b663a4",
+      "publication_date": "2024-09-16",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Takeaways from the Second Debate + Does the US Need a Sovereign Wealth Fund?"
+    },
+    "3e2016f0-0bcb-11ef-8b9d-6b9b00f28ac5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1648573049.mp3?updated=1726712931",
+      "guid": "3e2016f0-0bcb-11ef-8b9d-6b9b00f28ac5",
+      "publication_date": "2024-09-19",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Young People Are Worse Off Than Their Parents \u2014 and What to Do About it (from TED Talks Daily)"
+    },
+    "3e3d7d6c-0bcb-11ef-8b9d-8373bbb18202": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7304185321.mp3?updated=1727062089",
+      "guid": "3e3d7d6c-0bcb-11ef-8b9d-8373bbb18202",
+      "publication_date": "2024-09-23",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is AI the Hollywood Killer? + Amazon\u2019s New Return to Work Policy"
+    },
+    "3e5a4244-0bcb-11ef-8b9d-c7f1c564907d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9305253357.mp3?updated=1727315852",
+      "guid": "3e5a4244-0bcb-11ef-8b9d-c7f1c564907d",
+      "publication_date": "2024-09-26",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Jerome Powell Lucky or Good? \u2014 ft. Robert Armstrong"
+    },
+    "3e7903a0-0bcb-11ef-8b9d-7381d3d569c9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6895863157.mp3?updated=1727666479",
+      "guid": "3e7903a0-0bcb-11ef-8b9d-7381d3d569c9",
+      "publication_date": "2024-09-30",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "OpenAI\u2019s Exodus, the Rise of Palantir, and the Longshoremen\u2019s Strike"
+    },
+    "3e98d946-0bcb-11ef-8b9d-9be1067e3a24": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3141136669.mp3?updated=1727925310",
+      "guid": "3e98d946-0bcb-11ef-8b9d-9be1067e3a24",
+      "publication_date": "2024-10-03",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Unlocking Innovation Through Antitrust Enforcement \u2014 ft. Lina Khan"
+    },
+    "3eb5e7f2-0bcb-11ef-8b9d-9b04df0993a0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9790110297.mp3?updated=1728260980",
+      "guid": "3eb5e7f2-0bcb-11ef-8b9d-9b04df0993a0",
+      "publication_date": "2024-10-07",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "An Nvidia Challenger Files For An IPO + Can A New CEO Turn Nike Around?"
+    },
+    "3ed3cf92-0bcb-11ef-8b9d-b3389daae68a": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5850700772.mp3?updated=1728524267",
+      "guid": "3ed3cf92-0bcb-11ef-8b9d-b3389daae68a",
+      "publication_date": "2024-10-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What\u2019s the Biggest Threat to the U.S. Economy\u2019s Soft-Landing? \u2014 ft. Mark Zandi"
+    },
+    "3ef092bc-0bcb-11ef-8b9d-2b79ee5cdd6c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2421263667.mp3?updated=1728875368",
+      "guid": "3ef092bc-0bcb-11ef-8b9d-2b79ee5cdd6c",
+      "publication_date": "2024-10-14",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Hindenburg Shorts Roblox + Germany\u2019s Shrinking Economy"
+    },
+    "3f0efcb6-0bcb-11ef-8b9d-b3fb5dd1f9d1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3036371911.mp3?updated=1729133864",
+      "guid": "3f0efcb6-0bcb-11ef-8b9d-b3fb5dd1f9d1",
+      "publication_date": "2024-10-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Will a Bazooka Stimulus Revive China\u2019s Economy? \u2014 ft. Alice Han"
+    },
+    "3f2cbb34-0bcb-11ef-8b9d-5341298db017": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5001539558.mp3?updated=1729447741",
+      "guid": "3f2cbb34-0bcb-11ef-8b9d-5341298db017",
+      "publication_date": "2024-10-21",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Can A Podcast Change Southwest Airlines? + The College Consulting Business"
+    },
+    "3f4a273c-0bcb-11ef-8b9d-138ee579969e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3302545001.mp3?updated=1734248923",
+      "guid": "3f4a273c-0bcb-11ef-8b9d-138ee579969e",
+      "publication_date": "2024-10-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia\u2019s Rise, Intel\u2019s Fall, and the Chips in Between \u2014 ft. Patrick Moorhead"
+    },
+    "3f6687c4-0bcb-11ef-8b9d-4f1fcbaa9bac": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5502990165.mp3?updated=1734248919",
+      "guid": "3f6687c4-0bcb-11ef-8b9d-4f1fcbaa9bac",
+      "publication_date": "2024-10-28",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Perplexity\u2019s Fourth Funding Round + Lessons From Boeing in Long-Term Thinking"
+    },
+    "3f83427e-0bcb-11ef-8b9d-074cacd46dff": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4136562969.mp3?updated=1734248915",
+      "guid": "3f83427e-0bcb-11ef-8b9d-074cacd46dff",
+      "publication_date": "2024-10-31",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Third Quarter 2024 Review \u2014 ft. Aswath Damodaran"
+    },
+    "3fa06066-0bcb-11ef-8b9d-933b356347ca": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1889151347.mp3?updated=1730695355",
+      "guid": "3fa06066-0bcb-11ef-8b9d-933b356347ca",
+      "publication_date": "2024-11-04",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Meta\u2019s AI Promise, Microsoft\u2019s Disappointing Beat & Why Google Should Spin Youtube"
+    },
+    "3fbe5468-0bcb-11ef-8b9d-df2fea9194bb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5328971957.mp3?updated=1730946014",
+      "guid": "3fbe5468-0bcb-11ef-8b9d-df2fea9194bb",
+      "publication_date": "2024-11-07",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump Wins \u2014 ft. Anthony Scaramucci"
+    },
+    "3fdd5516-0bcb-11ef-8b9d-73b544c84b87": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8908495690.mp3?updated=1735460826",
+      "guid": "3fdd5516-0bcb-11ef-8b9d-73b544c84b87",
+      "publication_date": "2024-11-11",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Winners and Losers Under Trump\u2019s Second Term"
+    },
+    "3ffd2f4e-0bcb-11ef-8b9d-8b18636e3a83": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7619135094.mp3?updated=1735460816",
+      "guid": "3ffd2f4e-0bcb-11ef-8b9d-8b18636e3a83",
+      "publication_date": "2024-11-14",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Bitcoin Presidency & The Dawn of a New Robber Baron Era \u2014 ft. Josh Brown"
+    },
+    "401ba1f4-0bcb-11ef-8b9d-776ef73d159e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4576410744.mp3?updated=1731895815",
+      "guid": "401ba1f4-0bcb-11ef-8b9d-776ef73d159e",
+      "publication_date": "2024-11-18",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "ChatGPT\u2019s First Victim + The Department of Government Efficiency (DOGE)"
+    },
+    "403a7782-0bcb-11ef-8b9d-9ba1bd4ddf45": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6805688986.mp3?updated=1732162514",
+      "guid": "403a7782-0bcb-11ef-8b9d-9ba1bd4ddf45",
+      "publication_date": "2024-11-21",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Inside America's Only Bank for Nuclear Energy \u2014 ft. Jigar Shah"
+    },
+    "405a3dce-0bcb-11ef-8b9d-9b1057283af7": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5082629012.mp3?updated=1736662815",
+      "guid": "405a3dce-0bcb-11ef-8b9d-9b1057283af7",
+      "publication_date": "2024-11-25",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Target a Leveraged Buyout Candidate? + Comcast Cuts the Cord"
+    },
+    "407ace86-0bcb-11ef-8b9d-0ff25d031cbd": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4332088995.mp3?updated=1732996550",
+      "guid": "407ace86-0bcb-11ef-8b9d-0ff25d031cbd",
+      "publication_date": "2024-12-02",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Art of Spending Money"
+    },
+    "4099a702-0bcb-11ef-8b9d-330f0ee5aecb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2348814036.mp3?updated=1733362438",
+      "guid": "4099a702-0bcb-11ef-8b9d-330f0ee5aecb",
+      "publication_date": "2024-12-05",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why MicroStrategy Bought $40 Billion Worth of Bitcoin \u2014 ft. Michael Saylor"
+    },
+    "40b781e6-0bcb-11ef-8b9d-6b52a176b018": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3600844121.mp3?updated=1738786588",
+      "guid": "40b781e6-0bcb-11ef-8b9d-6b52a176b018",
+      "publication_date": "2024-12-09",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The UnitedHealthcare CEO Shooting, Amazon Takes On Nvidia, & 12 Days of OpenAI"
+    },
+    "40d7fa16-0bcb-11ef-8b9d-8b446f1b4983": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6055134462.mp3?updated=1733977488",
+      "guid": "40d7fa16-0bcb-11ef-8b9d-8b446f1b4983",
+      "publication_date": "2024-12-12",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Market\u2019s Biggest Risks and Opportunities in 2025 \u2014 ft. Tom Lee"
+    },
+    "40f7508c-0bcb-11ef-8b9d-3f5c9daffcaa": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1460938433.mp3?updated=1734314876",
+      "guid": "40f7508c-0bcb-11ef-8b9d-3f5c9daffcaa",
+      "publication_date": "2024-12-16",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Google\u2019s Quantum Breakthrough & The World Cup Goes to Saudi Arabia"
+    },
+    "41166f58-0bcb-11ef-8b9d-4b79762068c8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4054405697.mp3?updated=1734562584",
+      "guid": "41166f58-0bcb-11ef-8b9d-4b79762068c8",
+      "publication_date": "2024-12-19",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How to Make the Most of Your Money in the New Year \u2014 ft. Morgan Housel"
+    },
+    "4beadd3a-0e79-11f1-80d9-e7f8e0fa194a": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2202895873.mp3?updated=1771612451",
+      "guid": "4beadd3a-0e79-11f1-80d9-e7f8e0fa194a",
+      "publication_date": "2026-02-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Supreme Court Strikes Down Trump\u2019s Tariffs"
+    },
+    "5a6b6d9a-1fbc-11f0-b12c-6bd888819dff": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2941391810.mp3?updated=1759811312",
+      "guid": "5a6b6d9a-1fbc-11f0-b12c-6bd888819dff",
+      "publication_date": "2025-10-07",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "AMD Rallies 24% on OpenAI Deal & Bari Weiss Takes Over CBS News"
+    },
+    "5a81bfb4-1fbc-11f0-b12c-cfee0771914b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8024504697.mp3?updated=1759895903",
+      "guid": "5a81bfb4-1fbc-11f0-b12c-cfee0771914b",
+      "publication_date": "2025-10-08",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Japan Stocks Hit Record on New Prime Minister & Emerging Markets Post Best Rally in 15 Years"
+    },
+    "5a96544c-1fbc-11f0-b12c-cb858c4a28f5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8227291996.mp3?updated=1760496933",
+      "guid": "5a96544c-1fbc-11f0-b12c-cb858c4a28f5",
+      "publication_date": "2025-10-15",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "China-U.S. Tensions Flare in Volatile Trading Day & Why Big Bank Profits Spooked the Market"
+    },
+    "5aaa5ee2-1fbc-11f0-b12c-cf44f392d0da": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4054821062.mp3?updated=1761015026",
+      "guid": "5aaa5ee2-1fbc-11f0-b12c-cf44f392d0da",
+      "publication_date": "2025-10-21",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Amazon Losing Its Edge? What the AWS Outage Means for the Cloud Wars"
+    },
+    "5abf5306-1fbc-11f0-b12c-f3e828c67de2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9661037935.mp3?updated=1761102627",
+      "guid": "5abf5306-1fbc-11f0-b12c-f3e828c67de2",
+      "publication_date": "2025-10-22",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Netflix Stumbles on Earnings \u2014 While Warner Bros. Looks for a Buyer"
+    },
+    "5ad383c6-1fbc-11f0-b12c-23965afcacc8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7197333626.mp3?updated=1761621445",
+      "guid": "5ad383c6-1fbc-11f0-b12c-23965afcacc8",
+      "publication_date": "2025-10-28",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How Milei\u2019s Surprise Win in Argentina Defied the Market"
+    },
+    "5ae6a8a2-1fbc-11f0-b12c-332d60ec9a32": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7198060341.mp3?updated=1761706390",
+      "guid": "5ae6a8a2-1fbc-11f0-b12c-332d60ec9a32",
+      "publication_date": "2025-10-29",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What OpenAI\u2019s Restructuring Means for Microsoft, AGI \u2014 and a Future IPO"
+    },
+    "5c24930e-bfe5-11f0-8a48-875ae28747e8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8805241914.mp3?updated=1775006536",
+      "guid": "5c24930e-bfe5-11f0-8a48-875ae28747e8",
+      "publication_date": "2026-04-01",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Brutal Quarter Ends With a Rally \u2014 But Risks Are Rising"
+    },
+    "5c75bbf8-bfe5-11f0-8a48-472269c14e71": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4564739681.mp3?updated=1775096621",
+      "guid": "5c75bbf8-bfe5-11f0-8a48-472269c14e71",
+      "publication_date": "2026-04-02",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why So Bullish? Markets Cling to Iran Hopes"
+    },
+    "5c8b54a4-bfe5-11f0-8a48-cf949b9aafb2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2419702008.mp3?updated=1775530001",
+      "guid": "5c8b54a4-bfe5-11f0-8a48-cf949b9aafb2",
+      "publication_date": "2026-04-07",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Iran Deadline Looms for an Economy on the Edge"
+    },
+    "5cbbd156-bfe5-11f0-8a48-ef696a1e7f23": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9706906859.mp3?updated=1775698908",
+      "guid": "5cbbd156-bfe5-11f0-8a48-ef696a1e7f23",
+      "publication_date": "2026-04-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Markets Are Betting the Iran War Is Over \u2014 Is it?"
+    },
+    "5cd32c66-bfe5-11f0-8a48-e30aa7cd1db5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6070875937.mp3?updated=1776132957",
+      "guid": "5cd32c66-bfe5-11f0-8a48-e30aa7cd1db5",
+      "publication_date": "2026-04-14",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Oil Blockade Isn\u2019t Spooking Markets \u2014 Yet"
+    },
+    "5cea39ec-bfe5-11f0-8a48-9f668d32f2d2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6485717826.mp3?updated=1776217406",
+      "guid": "5cea39ec-bfe5-11f0-8a48-9f668d32f2d2",
+      "publication_date": "2026-04-15",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Violent Backlash: What the Sam Altman Attacks Signal for AI"
+    },
+    "5d023efc-bfe5-11f0-8a48-03c652fafbb9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9236641550.mp3?updated=1776305292",
+      "guid": "5d023efc-bfe5-11f0-8a48-03c652fafbb9",
+      "publication_date": "2026-04-16",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Wall Street Is Thriving on Chaos \u2014 Will It Last?"
+    },
+    "5d191ff0-bfe5-11f0-8a48-d75f248de399": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2122265481.mp3?updated=1776739020",
+      "guid": "5d191ff0-bfe5-11f0-8a48-d75f248de399",
+      "publication_date": "2026-04-21",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Iran War Will Cost Every Household $50,000"
+    },
+    "5d2fd722-bfe5-11f0-8a48-4369e3a5cdbe": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2819689181.mp3?updated=1776836712",
+      "guid": "5d2fd722-bfe5-11f0-8a48-4369e3a5cdbe",
+      "publication_date": "2026-04-22",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Tim Cook Sat Out the AI Race \u2014 Will the New CEO Pay the Price?"
+    },
+    "5d4937d0-bfe5-11f0-8a48-6f3f42806717": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2232029648.mp3?updated=1776910237",
+      "guid": "5d4937d0-bfe5-11f0-8a48-6f3f42806717",
+      "publication_date": "2026-04-23",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Most Dangerous AI Model Just Leaked"
+    },
+    "65a082a4-1fbc-11f0-b2a8-6fba73b8a4f5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1706224621.mp3?updated=1759440159",
+      "guid": "65a082a4-1fbc-11f0-b2a8-6fba73b8a4f5",
+      "publication_date": "2025-10-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What Happens if the Fed is Compromised \u2014 ft. Claudia Sahm"
+    },
+    "65b55634-1fbc-11f0-b2a8-bf100c4cff51": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5266452868.mp3?updated=1760059111",
+      "guid": "65b55634-1fbc-11f0-b2a8-bf100c4cff51",
+      "publication_date": "2025-10-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How Policy is Failing the American Workforce \u2014 ft. Kathryn Anne Edwards"
+    },
+    "65ca179a-1fbc-11f0-b2a8-c33adb8fe777": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3258568399.mp3?updated=1760645909",
+      "guid": "65ca179a-1fbc-11f0-b2a8-c33adb8fe777",
+      "publication_date": "2025-10-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why AI Needs Antitrust Intervention \u2014 ft. Jonathan Kanter"
+    },
+    "65defdd6-1fbc-11f0-b2a8-ff8f095a07a4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9348991717.mp3?updated=1761254496",
+      "guid": "65defdd6-1fbc-11f0-b2a8-ff8f095a07a4",
+      "publication_date": "2025-10-24",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Are We Building AI for Progress or Power? \u2014 ft. Daron Acemoglu"
+    },
+    "65f3e430-1fbc-11f0-b2a8-673c906c05e6": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7605174800.mp3?updated=1761874234",
+      "guid": "65f3e430-1fbc-11f0-b2a8-673c906c05e6",
+      "publication_date": "2025-10-31",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Are We Reliving 1929? Parallels to Today\u2019s Market Mania \u2014 ft. Andrew Ross Sorkin"
+    },
+    "739b3782-1fbc-11f0-baad-67dc3ac8bc4b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5801192518.mp3?updated=1762228643",
+      "guid": "739b3782-1fbc-11f0-baad-67dc3ac8bc4b",
+      "publication_date": "2025-11-04",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Amazon\u2019s $38 Billion OpenAI Deal \u2014 And Why We Were Already Bullish on the Stock"
+    },
+    "73b2bf60-1fbc-11f0-baad-4323e65e5a05": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5859587821.mp3?updated=1762317882",
+      "guid": "73b2bf60-1fbc-11f0-baad-4323e65e5a05",
+      "publication_date": "2025-11-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Zohran Mamdani Wins \u2014 Why NYC\u2019s Mayor Race Was a Referendum on Inequality"
+    },
+    "73c987cc-1fbc-11f0-baad-7f7d5345e1d2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9933030350.mp3?updated=1762832953",
+      "guid": "73c987cc-1fbc-11f0-baad-7f7d5345e1d2",
+      "publication_date": "2025-11-11",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Inside Elon Musk\u2019s $1 Trillion Tesla Payday \u2014 And Why It\u2019s a Governance Nightmare"
+    },
+    "73df5de0-1fbc-11f0-baad-7fc807e0a44b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3620384524.mp3?updated=1762918475",
+      "guid": "73df5de0-1fbc-11f0-baad-7fc807e0a44b",
+      "publication_date": "2025-11-12",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump\u2019s $2,000 Tariff Dividend Doesn\u2019t Add Up \u2014 Here\u2019s Why"
+    },
+    "73f6ae50-1fbc-11f0-baad-bb0f5742585b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9617899899.mp3?updated=1763440519",
+      "guid": "73f6ae50-1fbc-11f0-baad-bb0f5742585b",
+      "publication_date": "2025-11-18",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Bitcoin Erases 2025 Gains as Crypto Bear Market Deepens"
+    },
+    "740babb6-1fbc-11f0-baad-178c4a383b0c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8529925524.mp3?updated=1763525969",
+      "guid": "740babb6-1fbc-11f0-baad-178c4a383b0c",
+      "publication_date": "2025-11-19",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How Big Tech\u2019s Debt Machine Is Powering the AI Boom"
+    },
+    "7420b204-1fbc-11f0-baad-33831d62fce1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6745186279.mp3?updated=1764043727",
+      "guid": "7420b204-1fbc-11f0-baad-33831d62fce1",
+      "publication_date": "2025-11-25",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nasdaq Posts Best Day Since May as Fear & Greed Collide"
+    },
+    "74391cb8-1fbc-11f0-baad-b7b90c343923": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4065300892.mp3?updated=1764128979",
+      "guid": "74391cb8-1fbc-11f0-baad-b7b90c343923",
+      "publication_date": "2025-11-26",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Google vs. Nvidia: Is the AI Chip King Finally Under Threat?"
+    },
+    "766b6882-8021-11ef-b5bf-7b24b50832cd": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5499397382.mp3?updated=1734650272",
+      "guid": "766b6882-8021-11ef-b5bf-7b24b50832cd",
+      "publication_date": "2025-01-06",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Predictions for 2025"
+    },
+    "76833516-8021-11ef-b5bf-97db17c23b59": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7669506664.mp3?updated=1736377351",
+      "guid": "76833516-8021-11ef-b5bf-97db17c23b59",
+      "publication_date": "2025-01-09",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Money for Couples \u2014 ft. Ramit Sethi"
+    },
+    "76989442-8021-11ef-b5bf-1b2b299be445": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1940099624.mp3?updated=1736990597",
+      "guid": "76989442-8021-11ef-b5bf-1b2b299be445",
+      "publication_date": "2025-01-16",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "LA Fires, Trump Trades, TikTok, and Legacy Media\u2019s Fate \u2014 ft. Andrew Ross Sorkin"
+    },
+    "76adb71e-8021-11ef-b5bf-8f79d9d1c86c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7563216739.mp3?updated=1740302109",
+      "guid": "76adb71e-8021-11ef-b5bf-8f79d9d1c86c",
+      "publication_date": "2025-01-23",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "$TRUMP, What\u2019s Next For TikTok, and The State of the Streaming Wars \u2014 ft. Rich Greenfield"
+    },
+    "76c3c856-8021-11ef-b5bf-9fa5881813fa": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4290733994.mp3?updated=1741222278",
+      "guid": "76c3c856-8021-11ef-b5bf-9fa5881813fa",
+      "publication_date": "2025-01-30",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Winners and Losers After DeepSeek \u2014 ft. Robert Armstrong"
+    },
+    "76db86da-8021-11ef-b5bf-df33aaf388a4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5730848268.mp3?updated=1739683175",
+      "guid": "76db86da-8021-11ef-b5bf-df33aaf388a4",
+      "publication_date": "2025-01-13",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The DOJ\u2019s Landlord Lawsuit + Can Trump Buy Greenland?"
+    },
+    "76f19092-8021-11ef-b5bf-b32eb690c869": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1021277944.mp3?updated=1741222281",
+      "guid": "76f19092-8021-11ef-b5bf-b32eb690c869",
+      "publication_date": "2025-01-27",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Project Stargate & The Rise of Oracle + Scott\u2019s Stake in La Equidad Football Club"
+    },
+    "7707d5b4-8021-11ef-b5bf-bfcacf20a21d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7485733128.mp3?updated=1741222279",
+      "guid": "7707d5b4-8021-11ef-b5bf-bfcacf20a21d",
+      "publication_date": "2025-02-03",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Meta & Microsoft Brush Off DeepSeek + Starbucks Stages a Comeback"
+    },
+    "771dd206-8021-11ef-b5bf-4b806aa3d85c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4911164280.mp3?updated=1741503432",
+      "guid": "771dd206-8021-11ef-b5bf-4b806aa3d85c",
+      "publication_date": "2025-02-06",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Trouble With Tariffs + Why Palantir Could Dominate AI \u2014 ft. Aswath Damodaran"
+    },
+    "77343d02-8021-11ef-b5bf-07906f73d526": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9327231355.mp3?updated=1739467572",
+      "guid": "77343d02-8021-11ef-b5bf-07906f73d526",
+      "publication_date": "2025-02-13",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The State of Trade with China \u2014 ft. Alice Han"
+    },
+    "774a5d3a-8021-11ef-b5bf-a7f318c537a2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4025187295.mp3?updated=1742841139",
+      "guid": "774a5d3a-8021-11ef-b5bf-a7f318c537a2",
+      "publication_date": "2025-02-20",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Chaos Has Become an Economic Strategy \u2014 ft. Kyla Scanlon"
+    },
+    "775f760c-8021-11ef-b5bf-f785aa40c71b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1369876979.mp3?updated=1743321331",
+      "guid": "775f760c-8021-11ef-b5bf-f785aa40c71b",
+      "publication_date": "2025-02-27",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Tariffs Could Crush Canada\u2019s Economy \u2014 ft. Mike Moffatt"
+    },
+    "77743128-8021-11ef-b5bf-8bfa129238ad": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2725784705.mp3?updated=1742113851",
+      "guid": "77743128-8021-11ef-b5bf-8bfa129238ad",
+      "publication_date": "2025-02-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Spotify\u2019s First Year of Profitability + Is Google Losing its Edge?"
+    },
+    "7789a544-8021-11ef-b5bf-a77c627ca100": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5583943934.mp3?updated=1743321325",
+      "guid": "7789a544-8021-11ef-b5bf-a77c627ca100",
+      "publication_date": "2025-02-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Breaking Up Intel The Right Move? + The New Gold Rush"
+    },
+    "779f9516-8021-11ef-b5bf-bbc489947611": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1672869189.mp3?updated=1743932454",
+      "guid": "779f9516-8021-11ef-b5bf-bbc489947611",
+      "publication_date": "2025-03-03",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia Earnings are the Super Bowl of Business + Trump\u2019s $5 Million Gold Card"
+    },
+    "77a3c09a-fc81-11f0-ae7f-138b84c24a39": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6169980995.mp3?updated=1775252259",
+      "guid": "77a3c09a-fc81-11f0-ae7f-138b84c24a39",
+      "publication_date": "2026-04-04",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "First Time Founders: How Partiful Is Fixing the Loneliness Crisis"
+    },
+    "77b4b77a-8021-11ef-b5bf-bb27a76f526b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2671353612.mp3?updated=1743932464",
+      "guid": "77b4b77a-8021-11ef-b5bf-bb27a76f526b",
+      "publication_date": "2025-03-06",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Next Era Of Antitrust \u2014 ft. DOJ\u2019s Jonathan Kanter"
+    },
+    "77c9aee6-8021-11ef-b5bf-270667d7de65": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2194126138.mp3?updated=1741834945",
+      "guid": "77c9aee6-8021-11ef-b5bf-270667d7de65",
+      "publication_date": "2025-03-13",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Are We Headed For a Recession? + How Tariffs Hurt Housing (Live at SXSW)"
+    },
+    "77deb9d0-8021-11ef-b5bf-2b0d484104ee": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7457170647.mp3?updated=1742428429",
+      "guid": "77deb9d0-8021-11ef-b5bf-2b0d484104ee",
+      "publication_date": "2025-03-20",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Searching For Value Outside the U.S. \u2014 ft. Lyn Alden"
+    },
+    "77f357aa-8021-11ef-b5bf-df2d03b2f60d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5641614273.mp3?updated=1743026909",
+      "guid": "77f357aa-8021-11ef-b5bf-df2d03b2f60d",
+      "publication_date": "2025-03-27",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Unpacking Germany\u2019s Historic U-Turn on Spending \u2014 ft. Carsten Brzeski"
+    },
+    "78086032-8021-11ef-b5bf-b3ed118137a4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7748331113.mp3?updated=1741579309",
+      "guid": "78086032-8021-11ef-b5bf-b3ed118137a4",
+      "publication_date": "2025-03-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Has Apple Lost Its Mojo? + BlackRock\u2019s $23B Bet on the Panama Canal"
+    },
+    "781d463c-8021-11ef-b5bf-9ff835a78b6b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8319544798.mp3?updated=1742218017",
+      "guid": "781d463c-8021-11ef-b5bf-9ff835a78b6b",
+      "publication_date": "2025-03-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The S&P 500 Enters Correction Territory"
+    },
+    "78325202-8021-11ef-b5bf-7bafacb25d6e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7853429358.mp3?updated=1742772460",
+      "guid": "78325202-8021-11ef-b5bf-7bafacb25d6e",
+      "publication_date": "2025-03-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Has a Global Market Rotation Begun? + Inside the Ultra-Luxury Hotel Industry"
+    },
+    "7847b674-8021-11ef-b5bf-4793a669f4f7": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7021353991.mp3?updated=1743381523",
+      "guid": "7847b674-8021-11ef-b5bf-4793a669f4f7",
+      "publication_date": "2025-03-31",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "GameStop Buying Bitcoin, an Activist Play at Lyft, & Gen Z Unemployment"
+    },
+    "785cee2c-8021-11ef-b5bf-73a4d99aa8d1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9281155016.mp3?updated=1743638976",
+      "guid": "785cee2c-8021-11ef-b5bf-73a4d99aa8d1",
+      "publication_date": "2025-04-03",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "A Nightmare Tariff Scenario for the Auto Industry \u2014 ft. Tim Higgins"
+    },
+    "787243e4-8021-11ef-b5bf-17e02adc0018": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9975733903.mp3?updated=1744250070",
+      "guid": "787243e4-8021-11ef-b5bf-17e02adc0018",
+      "publication_date": "2025-04-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Tariff Chaos & Trading on Inequality \u2014 ft. Gary Stevenson"
+    },
+    "7887e028-8021-11ef-b5bf-cf495493ddf9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3188164937.mp3?updated=1744846378",
+      "guid": "7887e028-8021-11ef-b5bf-cf495493ddf9",
+      "publication_date": "2025-04-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Breaking Down Warning Signals from the Bond Market \u2014 ft. William Cohan"
+    },
+    "789d37de-8021-11ef-b5bf-a3cdf528d83f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6998425933.mp3?updated=1745464945",
+      "guid": "789d37de-8021-11ef-b5bf-a3cdf528d83f",
+      "publication_date": "2025-04-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Trump Will Back Down on China Tariffs \u2014 ft. Ryan Petersen"
+    },
+    "78b24598-8021-11ef-b5bf-670d477b9446": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6206243860.mp3?updated=1743986868",
+      "guid": "78b24598-8021-11ef-b5bf-670d477b9446",
+      "publication_date": "2025-04-07",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The $6.6 Trillion Sell-off"
+    },
+    "78c7b0d6-8021-11ef-b5bf-5f8593c0a9a7": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4882637307.mp3?updated=1744595893",
+      "guid": "78c7b0d6-8021-11ef-b5bf-5f8593c0a9a7",
+      "publication_date": "2025-04-14",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What to Do in the Wake of Trump\u2019s Tariff Pause"
+    },
+    "78dd4e3c-8021-11ef-b5bf-c3da6f685b5b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3765883450.mp3?updated=1745194686",
+      "guid": "78dd4e3c-8021-11ef-b5bf-c3da6f685b5b",
+      "publication_date": "2025-04-21",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Global Pushback on Tariffs + Can the FTC Beat Meta?"
+    },
+    "78f3252c-8021-11ef-b5bf-5f8b2d87a4c1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6400846835.mp3?updated=1745807316",
+      "guid": "78f3252c-8021-11ef-b5bf-5f8b2d87a4c1",
+      "publication_date": "2025-04-28",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Trump Fold & Tesla\u2019s Brand Death"
+    },
+    "790a5bac-8021-11ef-b5bf-6f899b5fd497": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2055929583.mp3?updated=1746065228",
+      "guid": "790a5bac-8021-11ef-b5bf-6f899b5fd497",
+      "publication_date": "2025-05-01",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What to Buy When the Tech Sector is On Sale \u2014 ft. Mark Mahaney"
+    },
+    "792036b6-8021-11ef-b5bf-cf78569a1bbc": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5121200320.mp3?updated=1746667690",
+      "guid": "792036b6-8021-11ef-b5bf-cf78569a1bbc",
+      "publication_date": "2025-05-08",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Sell America Thesis \u2014 ft. JPMorgan\u2019s Michael Cembalest"
+    },
+    "7935f014-8021-11ef-b5bf-fb9e42f21903": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1915751867.mp3?updated=1747278181",
+      "guid": "7935f014-8021-11ef-b5bf-fb9e42f21903",
+      "publication_date": "2025-05-15",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why the U.S. Can\u2019t Break Up with China \u2014 ft. Alice Han"
+    },
+    "794c86e4-8021-11ef-b5bf-2b5692f9d567": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7953197697.mp3?updated=1747869560",
+      "guid": "794c86e4-8021-11ef-b5bf-2b5692f9d567",
+      "publication_date": "2025-05-22",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why America\u2019s Credit Rating Dropped \u2014 ft. Scott Goodwin"
+    },
+    "79629556-8021-11ef-b5bf-d300af462c73": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9119103751.mp3?updated=1748484859",
+      "guid": "79629556-8021-11ef-b5bf-d300af462c73",
+      "publication_date": "2025-05-29",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is the Market Calling Trump\u2019s Bluff? \u2014 ft. Aswath Damodaran"
+    },
+    "79785850-8021-11ef-b5bf-0b4bf6c52e22": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1545557222.mp3?updated=1746413978",
+      "guid": "79785850-8021-11ef-b5bf-0b4bf6c52e22",
+      "publication_date": "2025-05-05",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Blockbuster Week For Big Tech Earnings + Can the U.S. Fix Its Student Debt Crisis?"
+    },
+    "798da20a-8021-11ef-b5bf-737115fb20e3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5045636352.mp3?updated=1747014231",
+      "guid": "798da20a-8021-11ef-b5bf-737115fb20e3",
+      "publication_date": "2025-05-12",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Google a Buy? + Is Uber Recession Proof?"
+    },
+    "79a2f0d8-8021-11ef-b5bf-b7cbac01a3f5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2870809622.mp3?updated=1747621823",
+      "guid": "79a2f0d8-8021-11ef-b5bf-b7cbac01a3f5",
+      "publication_date": "2025-05-19",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The GOP Tax Bill, United Health\u2019s Terrible Week, & Chinese Tech Earnings"
+    },
+    "79b85ad6-8021-11ef-b5bf-c7369841efc5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5549377081.mp3?updated=1748818991",
+      "guid": "79b85ad6-8021-11ef-b5bf-c7369841efc5",
+      "publication_date": "2025-06-02",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Tariffs Blocked by Court, U.S. Steel\u2019s Golden Shares & Neuralink\u2019s Funding Round"
+    },
+    "79cd4414-8021-11ef-b5bf-834731cc3a15": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3103471356.mp3?updated=1749095362",
+      "guid": "79cd4414-8021-11ef-b5bf-834731cc3a15",
+      "publication_date": "2025-06-05",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why the TACO Trade Matters \u2014 ft. Robert Armstrong"
+    },
+    "79e2ed46-8021-11ef-b5bf-bf2fabc8b6e2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1596676119.mp3?updated=1749699505",
+      "guid": "79e2ed46-8021-11ef-b5bf-bf2fabc8b6e2",
+      "publication_date": "2025-06-12",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Do the U.S. and China Have a Deal? + May Inflation Data & Tesla Delays Its Robotaxi Again"
+    },
+    "79f9d236-8021-11ef-b5bf-0b899af85ab8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1149773529.mp3?updated=1750910123",
+      "guid": "79f9d236-8021-11ef-b5bf-0b899af85ab8",
+      "publication_date": "2025-06-26",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Wall Street Panics Over NYC Mayor, Layoffs at Bumble & BNPL Debt Hits Your Credit Score"
+    },
+    "7a0f63d0-8021-11ef-b5bf-ef2f9a5248f8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1325544513.mp3?updated=1749478868",
+      "guid": "7a0f63d0-8021-11ef-b5bf-ef2f9a5248f8",
+      "publication_date": "2025-06-09",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump & Elon Break Up Over the Tax Bill"
+    },
+    "7a25371e-8021-11ef-b5bf-6776584d0a4d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3184801221.mp3?updated=1750025815",
+      "guid": "7a25371e-8021-11ef-b5bf-6776584d0a4d",
+      "publication_date": "2025-06-16",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What the Air India Crash Means for Boeing, Google Buyouts & Private Equity\u2019s Big Slump"
+    },
+    "7a3b103e-8021-11ef-b5bf-07169eabd8f0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7108122305.mp3?updated=1750648692",
+      "guid": "7a3b103e-8021-11ef-b5bf-07169eabd8f0",
+      "publication_date": "2025-06-23",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What the Falling Dollar Means for America"
+    },
+    "7a50b68c-8021-11ef-b5bf-6b63190c6168": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5976379438.mp3?updated=1751250301",
+      "guid": "7a50b68c-8021-11ef-b5bf-6b63190c6168",
+      "publication_date": "2025-06-30",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Markets 2025 Halftime Report"
+    },
+    "7e461058-1fbc-11f0-af56-f7f24c161dbd": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9171946537.mp3?updated=1762470392",
+      "guid": "7e461058-1fbc-11f0-af56-f7f24c161dbd",
+      "publication_date": "2025-11-07",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Zohran Mamdani's Plan for New York Economically Possible? \u2014 ft. Bradley Tusk"
+    },
+    "7e583c7e-1fbc-11f0-af56-cb7dc28e9c4c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8258105581.mp3?updated=1763088325",
+      "guid": "7e583c7e-1fbc-11f0-af56-cb7dc28e9c4c",
+      "publication_date": "2025-11-14",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Aswath Damodaran Says There\u2019s No Place to Hide in Stocks"
+    },
+    "7e69f4be-1fbc-11f0-af56-2f1e49561785": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7743714940.mp3?updated=1763696649",
+      "guid": "7e69f4be-1fbc-11f0-af56-2f1e49561785",
+      "publication_date": "2025-11-21",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "JPMorgan\u2019s Playbook for a 10-15% Correction (or Worse) \u2014 ft. Michael Cembalest"
+    },
+    "880e053a-6f79-11ef-aea3-93cf4719ad7d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2267922401.mp3?updated=1734563121",
+      "guid": "880e053a-6f79-11ef-aea3-93cf4719ad7d",
+      "publication_date": "2024-12-23",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Ask Us Anything \u2014 Forgiveness, The Manosphere, Parasocial Relationships & More"
+    },
+    "8a1b15e0-1fbc-11f0-b062-03ad4656aeeb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8062701524.mp3?updated=1764650978",
+      "guid": "8a1b15e0-1fbc-11f0-b062-03ad4656aeeb",
+      "publication_date": "2025-12-02",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How Silicon Valley Infiltrated the White House"
+    },
+    "8a30075c-1fbc-11f0-b062-773701b88c90": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8659283335.mp3?updated=1764734632",
+      "guid": "8a30075c-1fbc-11f0-b062-773701b88c90",
+      "publication_date": "2025-12-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "OpenAI Declares Code Red as Google Gains Ground"
+    },
+    "8a4411de-1fbc-11f0-b062-13882d443300": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3653576492.mp3?updated=1765260144",
+      "guid": "8a4411de-1fbc-11f0-b062-13882d443300",
+      "publication_date": "2025-12-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Paramount Goes Hostile With $108B Bid for Warner Bros."
+    },
+    "8a58b076-1fbc-11f0-b062-1b0013f5bb9c": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9344119205.mp3?updated=1765338717",
+      "guid": "8a58b076-1fbc-11f0-b062-1b0013f5bb9c",
+      "publication_date": "2025-12-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Did the U.S. Just Hand its AI Edge to China?"
+    },
+    "8a6d3474-1fbc-11f0-b062-b3e1605cb6fb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3099867635.mp3?updated=1765859915",
+      "guid": "8a6d3474-1fbc-11f0-b062-b3e1605cb6fb",
+      "publication_date": "2025-12-16",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Oracle is Crashing Right Now"
+    },
+    "8a81e8ce-1fbc-11f0-b062-8bea41f03aab": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6071344886.mp3?updated=1765942317",
+      "guid": "8a81e8ce-1fbc-11f0-b062-8bea41f03aab",
+      "publication_date": "2025-12-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Unemployment Climbs to a Four-Year High"
+    },
+    "9391c736-1fbc-11f0-803b-57c1a5bbeec9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2675337002.mp3?updated=1764908030",
+      "guid": "9391c736-1fbc-11f0-803b-57c1a5bbeec9",
+      "publication_date": "2025-12-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Economic Risks Keeping Paul Krugman Up at Night"
+    },
+    "93a4568a-1fbc-11f0-803b-fb69ac9c1423": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3529229594.mp3?updated=1765515581",
+      "guid": "93a4568a-1fbc-11f0-803b-fb69ac9c1423",
+      "publication_date": "2025-12-12",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Bull Case for 2026 \u2014 ft. Tom Lee"
+    },
+    "93b6c3f6-1fbc-11f0-803b-53471c426c57": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9283116305.mp3?updated=1766098591",
+      "guid": "93b6c3f6-1fbc-11f0-803b-53471c426c57",
+      "publication_date": "2025-12-19",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Biggest Disruption Is Yet to Come \u2014 ft. Justin Wolfers"
+    },
+    "a882dee6-0120-11f1-af62-2f34ba761280": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3463588886.mp3?updated=1771296798",
+      "guid": "a882dee6-0120-11f1-af62-2f34ba761280",
+      "publication_date": "2026-02-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Inflation Is About to Get Worse"
+    },
+    "c6db6718-72d8-11f0-bf57-3bbc6c43430e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9659456317.mp3?updated=1765694192",
+      "guid": "c6db6718-72d8-11f0-bf57-3bbc6c43430e",
+      "publication_date": "2026-01-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Scott Galloway\u2019s Predictions for 2026"
+    },
+    "c729a4d2-72d8-11f0-bf57-d3d2b4898f89": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9168577101.mp3?updated=1768110613",
+      "guid": "c729a4d2-72d8-11f0-bf57-d3d2b4898f89",
+      "publication_date": "2026-01-12",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Imperialism Good for Your Portfolio?"
+    },
+    "c740ca18-72d8-11f0-bf57-5393dad3be2f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5683245807.mp3?updated=1769313138",
+      "guid": "c740ca18-72d8-11f0-bf57-5393dad3be2f",
+      "publication_date": "2026-01-26",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Davos Dispatch: World Order on Edge"
+    },
+    "c7560888-72d8-11f0-bf57-235dea6deb61": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5718418726.mp3?updated=1769976377",
+      "guid": "c7560888-72d8-11f0-bf57-235dea6deb61",
+      "publication_date": "2026-02-02",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Big Tech\u2019s AI Vibe Shift"
+    },
+    "c76bea90-72d8-11f0-bf57-3fb057209d79": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9119585677.mp3?updated=1770532207",
+      "guid": "c76bea90-72d8-11f0-bf57-3fb057209d79",
+      "publication_date": "2026-02-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Did Anthropic Just Kill Software?"
+    },
+    "c781e426-72d8-11f0-bf57-37e905f924ac": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2647745097.mp3?updated=1771781770",
+      "guid": "c781e426-72d8-11f0-bf57-37e905f924ac",
+      "publication_date": "2026-02-23",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Big Tech Is Losing to Boring Stocks"
+    },
+    "c7987970-72d8-11f0-bf57-cf8af99aeb52": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5684038035.mp3?updated=1772388855",
+      "guid": "c7987970-72d8-11f0-bf57-cf8af99aeb52",
+      "publication_date": "2026-03-02",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What the AI Scare Gets Wrong"
+    },
+    "c7aefb82-72d8-11f0-bf57-373d9dd46d1f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4290863944.mp3?updated=1773013358",
+      "guid": "c7aefb82-72d8-11f0-bf57-373d9dd46d1f",
+      "publication_date": "2026-03-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Iran War Risk Markets Are Ignoring"
+    },
+    "c7c42f34-72d8-11f0-bf57-374576c06727": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4340000346.mp3?updated=1773613952",
+      "guid": "c7c42f34-72d8-11f0-bf57-374576c06727",
+      "publication_date": "2026-03-16",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "War With Iran Is Rewriting Global Markets"
+    },
+    "c7d9635e-72d8-11f0-bf57-ef494baae942": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7534795693.mp3?updated=1774227050",
+      "guid": "c7d9635e-72d8-11f0-bf57-ef494baae942",
+      "publication_date": "2026-03-23",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Next Inflation Wave Is Already Here"
+    },
+    "c7f20102-72d8-11f0-bf57-435dc8e0294e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7438522376.mp3?updated=1774815253",
+      "guid": "c7f20102-72d8-11f0-bf57-435dc8e0294e",
+      "publication_date": "2026-03-30",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump\u2019s Economic Playbook Is Failing"
+    },
+    "dea715a0-32ee-11f1-ae31-2718b8b4e603": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2857266016.mp3?updated=1775614719",
+      "guid": "dea715a0-32ee-11f1-ae31-2718b8b4e603",
+      "publication_date": "2026-04-08",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump Threatened to End Iranian Civilization \u2014 What Comes Next?"
+    },
+    "e00eac6a-d2c2-11ef-bdd5-ffbfee4fde7d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5307042364.mp3?updated=1751516280",
+      "guid": "e00eac6a-d2c2-11ef-bdd5-ffbfee4fde7d",
+      "publication_date": "2025-07-03",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Paramount\u2019s $16M Trump Settlement, Tesla\u2019s Worst-Ever Delivery Drop & Figma\u2019s IPO"
+    },
+    "e035be54-d2c2-11ef-bdd5-c3a6f364f5e7": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1409156107.mp3?updated=1751852066",
+      "guid": "e035be54-d2c2-11ef-bdd5-c3a6f364f5e7",
+      "publication_date": "2025-07-07",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How the Big Beautiful Bill\u2019s Passage Will Reshape the Economy"
+    },
+    "e05b69ec-d2c2-11ef-bdd5-cb3e211f487b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5917469756.mp3?updated=1752117677",
+      "guid": "e05b69ec-d2c2-11ef-bdd5-cb3e211f487b",
+      "publication_date": "2025-07-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia Hits $4T, Yaccarino Steps Down from X & SpaceX Eyes $400 Billion Valuation"
+    },
+    "e07fc53a-d2c2-11ef-bdd5-2b05ad439814": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9983012557.mp3?updated=1752456363",
+      "guid": "e07fc53a-d2c2-11ef-bdd5-2b05ad439814",
+      "publication_date": "2025-07-14",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Liberation Day 2.0 Is Here \u2014 When Will We See the Tariff Fallout?"
+    },
+    "e0a44b3a-d2c2-11ef-bdd5-bb528bc03664": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4448984708.mp3?updated=1753943010",
+      "guid": "e0a44b3a-d2c2-11ef-bdd5-bb528bc03664",
+      "publication_date": "2025-07-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Will Trump Fire Powell? ASML Sinks on Tariff Fears & An Interview with Windsurf CEO Jeff Wang"
+    },
+    "e0c94dd6-d2c2-11ef-bdd5-efc67245252a": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2071509309.mp3?updated=1753943448",
+      "guid": "e0c94dd6-d2c2-11ef-bdd5-efc67245252a",
+      "publication_date": "2025-07-21",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Buy-The-Dip Mindset Fuels Historic Quarter For Stock Trading"
+    },
+    "e0ee0388-d2c2-11ef-bdd5-fb71e78bd9a9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5868763679.mp3?updated=1753943080",
+      "guid": "e0ee0388-d2c2-11ef-bdd5-fb71e78bd9a9",
+      "publication_date": "2025-07-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Do Japan & the U.S. Have a Deal? Google\u2019s Q2 Earnings & Home Prices Hit a Record (Again)"
+    },
+    "e114593e-d2c2-11ef-bdd5-0fba5abef1ba": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6919330224.mp3?updated=1753943340",
+      "guid": "e114593e-d2c2-11ef-bdd5-0fba5abef1ba",
+      "publication_date": "2025-07-28",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Meme Stocks are Back \u2014 What\u2019s Fueling the Resurgence?"
+    },
+    "e1391012-d2c2-11ef-bdd5-8f98b81328b6": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3224144417.mp3?updated=1753932200",
+      "guid": "e1391012-d2c2-11ef-bdd5-8f98b81328b6",
+      "publication_date": "2025-07-31",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Figma\u2019s IPO is Finally Here, Fed Holds Rates Steady & Amazon\u2019s $20M AI Licensing Deal with the NYT"
+    },
+    "e15f621c-d2c2-11ef-bdd5-8347405322db": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2565774382.mp3?updated=1754541946",
+      "guid": "e15f621c-d2c2-11ef-bdd5-8347405322db",
+      "publication_date": "2025-08-07",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "OpenAI\u2019s $500B Valuation + Key Takeaways from Disney and Uber Earnings"
+    },
+    "e1879494-d2c2-11ef-bdd5-fbda6fb36311": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4327901591.mp3?updated=1754235486",
+      "guid": "e1879494-d2c2-11ef-bdd5-fbda6fb36311",
+      "publication_date": "2025-08-04",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Big Tech Breaks Away From the Pack as Markets Stumble on Tariff Blitz"
+    },
+    "e1f6b9e6-d2c2-11ef-bdd5-1bc0eb4ffbf4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6350324799.mp3?updated=1756003412",
+      "guid": "e1f6b9e6-d2c2-11ef-bdd5-1bc0eb4ffbf4",
+      "publication_date": "2025-08-25",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "AI Bubble Watch: Has the Hype Gone Too Far? \u2014 ft. Josh Brown"
+    },
+    "e268c91e-d2c2-11ef-bdd5-434955124514": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9929875851.mp3?updated=1756353121",
+      "guid": "e268c91e-d2c2-11ef-bdd5-434955124514",
+      "publication_date": "2025-08-28",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia\u2019s Record $46.7B Quarter, Trump\u2019s 50% Tariff on India & Can Tax Credits Bring Hollywood Back?"
+    },
+    "e2b6030a-d2c2-11ef-bdd5-036967ed89b8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3547842989.mp3?updated=1757264897",
+      "guid": "e2b6030a-d2c2-11ef-bdd5-036967ed89b8",
+      "publication_date": "2025-09-08",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Navigating The Most Top-Heavy S&P 500 in History"
+    },
+    "e2dc78f0-d2c2-11ef-bdd5-5f43181e04e2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1084718676.mp3?updated=1757860497",
+      "guid": "e2dc78f0-d2c2-11ef-bdd5-5f43181e04e2",
+      "publication_date": "2025-09-15",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Fed\u2019s September Dilemma: Is it Really Time to Cut Rates?"
+    },
+    "e3016b6a-d2c2-11ef-bdd5-0f854bf13e5f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5406921908.mp3?updated=1758430317",
+      "guid": "e3016b6a-d2c2-11ef-bdd5-0f854bf13e5f",
+      "publication_date": "2025-09-22",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "TikTok, Warner Bros, and the Rise of the Ellison Empire"
+    },
+    "e3268d0a-d2c2-11ef-bdd5-936cec786dbd": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6694986008.mp3?updated=1759028864",
+      "guid": "e3268d0a-d2c2-11ef-bdd5-936cec786dbd",
+      "publication_date": "2025-09-29",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How The AI Economy Could Collapse"
+    },
+    "e34c9ec8-d2c2-11ef-bdd5-ff90a000a95d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5862900077.mp3?updated=1756959455",
+      "guid": "e34c9ec8-d2c2-11ef-bdd5-ff90a000a95d",
+      "publication_date": "2025-09-04",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Google Dodges a Breakup, China\u2019s Growing Trade With Africa & Anthropic\u2019s $183B Valuation"
+    },
+    "e372465a-d2c2-11ef-bdd5-cff5f613d867": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2587560790.mp3?updated=1757561782",
+      "guid": "e372465a-d2c2-11ef-bdd5-cff5f613d867",
+      "publication_date": "2025-09-11",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Oracle Stock Roars 36%, Apple\u2019s New Product Flop & Judge Blocks Lisa Cook Firing"
+    },
+    "e397c43e-d2c2-11ef-bdd5-079e830366d1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6020380712.mp3?updated=1758167588",
+      "guid": "e397c43e-d2c2-11ef-bdd5-079e830366d1",
+      "publication_date": "2025-09-18",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Fed Cuts Rates For First Time This Year & Winners and Losers of a TikTok Deal"
+    },
+    "e3bc3a62-d2c2-11ef-bdd5-b774ab1c5d81": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4951988069.mp3?updated=1758767484",
+      "guid": "e3bc3a62-d2c2-11ef-bdd5-b774ab1c5d81",
+      "publication_date": "2025-09-25",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What\u2019s Driving 2025\u2019s Gold Rush? & The Incredible Risk of Perpetual Futures Trading"
+    },
+    "e3e13dee-d2c2-11ef-bdd5-3706851fe466": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6134255830.mp3?updated=1759375665",
+      "guid": "e3e13dee-d2c2-11ef-bdd5-3706851fe466",
+      "publication_date": "2025-10-02",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "EV Tax Credit Comes to an End & Why Trump Rx Will Not Fix High Drug Costs"
+    },
+    "e407c0f4-d2c2-11ef-bdd5-0f3e2379ba95": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3249810794.mp3?updated=1759979709",
+      "guid": "e407c0f4-d2c2-11ef-bdd5-0f3e2379ba95",
+      "publication_date": "2025-10-09",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "xAI Teams Up with Nvidia in $20B Funding Round & Chinese Tech Stocks Hit Decade Highs"
+    },
+    "e42cdb1e-d2c2-11ef-bdd5-6f0237112040": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6414532744.mp3?updated=1759628214",
+      "guid": "e42cdb1e-d2c2-11ef-bdd5-6f0237112040",
+      "publication_date": "2025-10-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Great Sloppification of OpenAI"
+    },
+    "e451f1a6-d2c2-11ef-bdd5-434b95653272": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8029194246.mp3?updated=1760249794",
+      "guid": "e451f1a6-d2c2-11ef-bdd5-434b95653272",
+      "publication_date": "2025-10-13",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The AI Bubble Is Real \u2014 Here\u2019s How to Prepare for the Pop"
+    },
+    "e476445c-d2c2-11ef-bdd5-ebaef86a00a5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9529617239.mp3?updated=1760833046",
+      "guid": "e476445c-d2c2-11ef-bdd5-ebaef86a00a5",
+      "publication_date": "2025-10-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "AI is Running Up America\u2019s Energy Costs \u2014 Who\u2019s Footing the Bill?"
+    },
+    "e49cb04c-d2c2-11ef-bdd5-376ce6d5226f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7651536643.mp3?updated=1761453416",
+      "guid": "e49cb04c-d2c2-11ef-bdd5-376ce6d5226f",
+      "publication_date": "2025-10-27",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How China\u2019s AI Efficiency Could Gut the U.S. Economy"
+    },
+    "e4c2a8ce-d2c2-11ef-bdd5-a362250dc167": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7363310840.mp3?updated=1760585525",
+      "guid": "e4c2a8ce-d2c2-11ef-bdd5-a362250dc167",
+      "publication_date": "2025-10-16",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Inside ASML\u2019s Earnings Beat, Netflix\u2019s Podcasting Move & the Largest Data Center Acquisition Ever"
+    },
+    "e4e8dd8c-d2c2-11ef-bdd5-7f880549b9e0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3953995900.mp3?updated=1761190741",
+      "guid": "e4e8dd8c-d2c2-11ef-bdd5-7f880549b9e0",
+      "publication_date": "2025-10-23",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Tesla Profits Plunge 37% Despite Record Sales \u2014 Here\u2019s Why"
+    },
+    "e50d8b64-d2c2-11ef-bdd5-134d578725f0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3947220228.mp3?updated=1761793536",
+      "guid": "e50d8b64-d2c2-11ef-bdd5-134d578725f0",
+      "publication_date": "2025-10-30",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia Just Hit $5 Trillion \u2014 Is the Stock Unstoppable?"
+    },
+    "e5304604-d2c2-11ef-bdd5-fb98dd401e25": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9640467332.mp3?updated=1762405675",
+      "guid": "e5304604-d2c2-11ef-bdd5-fb98dd401e25",
+      "publication_date": "2025-11-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is Palantir Overvalued? Stock Drops 10% on Michael Burry\u2019s Bearish Bet"
+    },
+    "e5526644-d2c2-11ef-bdd5-873aec69ad1b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4548346556.mp3?updated=1762058503",
+      "guid": "e5526644-d2c2-11ef-bdd5-873aec69ad1b",
+      "publication_date": "2025-11-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "AI is Taking Jobs \u2014 Here\u2019s How to Stay Indispensable"
+    },
+    "e576f37e-d2c2-11ef-bdd5-ef6038a356a5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3834964835.mp3?updated=1762649722",
+      "guid": "e576f37e-d2c2-11ef-bdd5-ef6038a356a5",
+      "publication_date": "2025-11-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Red Flags at OpenAI \u2014 How One Company Could Burst the AI Bubble"
+    },
+    "e5994b40-d2c2-11ef-bdd5-834b0c83cf1a": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7895610120.mp3?updated=1763310205",
+      "guid": "e5994b40-d2c2-11ef-bdd5-834b0c83cf1a",
+      "publication_date": "2025-11-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Whole Market Looks Expensive \u2014 Is it Time to De-Risk?"
+    },
+    "e5bbb93c-d2c2-11ef-bdd5-bb972c6c0611": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5280385731.mp3?updated=1763609852",
+      "guid": "e5bbb93c-d2c2-11ef-bdd5-bb972c6c0611",
+      "publication_date": "2025-11-20",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia Earnings Brush Off AI Bubble Fears \u2014 For Now"
+    },
+    "e5de1658-d2c2-11ef-bdd5-7f588c5cba26": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6178936962.mp3?updated=1763005435",
+      "guid": "e5de1658-d2c2-11ef-bdd5-7f588c5cba26",
+      "publication_date": "2025-11-13",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Government Shutdown Ends \u2014 But the Damage Doesn\u2019t"
+    },
+    "e600f484-d2c2-11ef-bdd5-bbf6a9a4fe54": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5110906871.mp3?updated=1763904510",
+      "guid": "e600f484-d2c2-11ef-bdd5-bbf6a9a4fe54",
+      "publication_date": "2025-11-24",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Even Nvidia Can\u2019t Rescue the Market From the Fear Cycle"
+    },
+    "e6234d54-d2c2-11ef-bdd5-57166116e136": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3981090267.mp3?updated=1764480989",
+      "guid": "e6234d54-d2c2-11ef-bdd5-57166116e136",
+      "publication_date": "2025-12-01",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Money & Masculinity: Scott Galloway & Ed Elson on What Defines a Man"
+    },
+    "e64676a8-d2c2-11ef-bdd5-6faa4f7ef150": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6523489910.mp3?updated=1765128247",
+      "guid": "e64676a8-d2c2-11ef-bdd5-6faa4f7ef150",
+      "publication_date": "2025-12-08",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Netflix Wins the Warner Bros. Bidding War"
+    },
+    "e6697c2a-d2c2-11ef-bdd5-9f344e54b905": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6524182715.mp3?updated=1765697322",
+      "guid": "e6697c2a-d2c2-11ef-bdd5-9f344e54b905",
+      "publication_date": "2025-12-15",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What\u2019s the Right Investment Strategy for 2026?"
+    },
+    "e68e8fba-d2c2-11ef-bdd5-236952d99c59": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2264979637.mp3?updated=1766106421",
+      "guid": "e68e8fba-d2c2-11ef-bdd5-236952d99c59",
+      "publication_date": "2025-12-22",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Ask Me Anything \u2014 Figma, Dirty Jokes, Running for Office & More"
+    },
+    "e6b29bb2-d2c2-11ef-bdd5-47dc584e62ee": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9141492719.mp3?updated=1764822989",
+      "guid": "e6b29bb2-d2c2-11ef-bdd5-47dc584e62ee",
+      "publication_date": "2025-12-04",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "401(k) From Birth? Inside the \u201cTrump Accounts\u201d With Brad Gerstner"
+    },
+    "e6d6dad6-d2c2-11ef-bdd5-2fcdf3645916": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2822912834.mp3?updated=1765430278",
+      "guid": "e6d6dad6-d2c2-11ef-bdd5-2fcdf3645916",
+      "publication_date": "2025-12-11",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What the Fed\u2019s Third Rate Cut Means for 2026"
+    },
+    "e6fb481c-d2c2-11ef-bdd5-a76a9c9af023": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8047095592.mp3?updated=1766033958",
+      "guid": "e6fb481c-d2c2-11ef-bdd5-a76a9c9af023",
+      "publication_date": "2025-12-18",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Warner Bros. Rejects Paramount\u2019s Hostile Bid"
+    },
+    "e7123ea0-9e69-11f0-8170-afa826e24d9f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4874968096.mp3?updated=1759284925",
+      "guid": "e7123ea0-9e69-11f0-8170-afa826e24d9f",
+      "publication_date": "2025-10-01",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Economic Fallout of a Government Shutdown & Why Fermi Will Be the Worst IPO of 2025"
+    },
+    "ee21f556-1fba-11f0-af17-b321ebc2a2aa": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5768737537.mp3?updated=1749526647",
+      "guid": "ee21f556-1fba-11f0-af17-b321ebc2a2aa",
+      "publication_date": "2025-06-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Warner Bros. Discovery Splits In Two, Apple\u2019s WWDC Flops, & Tesla Gets Downgraded"
+    },
+    "ee3bb4c8-1fba-11f0-af17-9b5840c52f67": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2729171764.mp3?updated=1749611351",
+      "guid": "ee3bb4c8-1fba-11f0-af17-9b5840c52f67",
+      "publication_date": "2025-06-11",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "World Bank Cuts U.S. Growth Outlook, Meta Invests in Scale AI, & Smucker\u2019s Stock Tanks"
+    },
+    "ee50c1f6-1fba-11f0-af17-3f6ef835e2de": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4936253403.mp3?updated=1750130462",
+      "guid": "ee50c1f6-1fba-11f0-af17-3f6ef835e2de",
+      "publication_date": "2025-06-17",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Israel-Iran Conflict Drives Oil Prices, Meta Monetizes WhatsApp, & Tron\u2019s IPO Grift"
+    },
+    "ee665052-1fba-11f0-af17-6f6f51c695d6": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1216575409.mp3?updated=1750215663",
+      "guid": "ee665052-1fba-11f0-af17-6f6f51c695d6",
+      "publication_date": "2025-06-18",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "OpenAI & Microsoft Feud, Homebuilder Vibes Slump, and WBD Cuts Zaslav\u2019s Pay"
+    },
+    "ee7ac096-1fba-11f0-af17-3becb336eb1e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9442429264.mp3?updated=1750737263",
+      "guid": "ee7ac096-1fba-11f0-af17-3becb336eb1e",
+      "publication_date": "2025-06-24",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Oil Falls on Israel-Iran De-Escalation, Tesla Rolls Out the Robotaxi, & Trump Media\u2019s Buyback Grift"
+    },
+    "ee9009d8-1fba-11f0-af17-1b3069de6fd5": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3246475904.mp3?updated=1750942933",
+      "guid": "ee9009d8-1fba-11f0-af17-1b3069de6fd5",
+      "publication_date": "2025-06-25",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Markets Shrug Off Israel-Iran Conflict, Polymarket\u2019s $200M Round & a Stablecoin Warning"
+    },
+    "f63ab5e8-1fba-11f0-b30c-ff6a8376f383": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3357082281.mp3?updated=1749828385",
+      "guid": "f63ab5e8-1fba-11f0-b30c-ff6a8376f383",
+      "publication_date": "2025-06-13",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Warning Signs From the Labor Market \u2014 ft. Kathryn Anne Edwards"
+    },
+    "f64e1d4a-1fba-11f0-b30c-3f8543621b57": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7460570039.mp3?updated=1750386836",
+      "guid": "f64e1d4a-1fba-11f0-b30c-3f8543621b57",
+      "publication_date": "2025-06-20",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Doing the Math on Trump\u2019s Economic Impact \u2014 ft. Justin Wolfers"
+    },
+    "f6617386-1fba-11f0-b30c-3fea13b2338e": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3671493201.mp3?updated=1750977508",
+      "guid": "f6617386-1fba-11f0-b30c-3fea13b2338e",
+      "publication_date": "2025-06-27",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Dangerously Irresponsible Tax Bill \u2014 ft. Maya MacGuineas"
+    },
+    "f9fe56e6-72d8-11f0-96e7-b762ebc07d6b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5640019340.mp3?updated=1767667754",
+      "guid": "f9fe56e6-72d8-11f0-96e7-b762ebc07d6b",
+      "publication_date": "2026-01-06",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What Venezuela\u2019s Regime Change Means for Oil"
+    },
+    "fa11bf88-72d8-11f0-96e7-7f8a048cb569": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3083993744.mp3?updated=1767752946",
+      "guid": "fa11bf88-72d8-11f0-96e7-7f8a048cb569",
+      "publication_date": "2026-01-07",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Can a GLP-1 Pill Revive Novo Nordisk?"
+    },
+    "fa237e80-72d8-11f0-96e7-a712ce584582": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4237926348.mp3?updated=1767840123",
+      "guid": "fa237e80-72d8-11f0-96e7-a712ce584582",
+      "publication_date": "2026-01-08",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Trump Wants Greenland"
+    },
+    "fa3572c0-72d8-11f0-96e7-5ffcff946b43": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3519495526.mp3?updated=1768279036",
+      "guid": "fa3572c0-72d8-11f0-96e7-5ffcff946b43",
+      "publication_date": "2026-01-13",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The DOJ Comes for Jerome Powell"
+    },
+    "fa47c1e6-72d8-11f0-96e7-2b2c07f1dc40": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1119511866.mp3?updated=1768362586",
+      "guid": "fa47c1e6-72d8-11f0-96e7-2b2c07f1dc40",
+      "publication_date": "2026-01-14",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Trump\u2019s 25% Iran Tariffs Explained"
+    },
+    "fa5aa338-72d8-11f0-96e7-335d37da0a0f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6337444682.mp3?updated=1768447664",
+      "guid": "fa5aa338-72d8-11f0-96e7-335d37da0a0f",
+      "publication_date": "2026-01-15",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Big Banks Are Selling-Off"
+    },
+    "fa6e5a04-72d8-11f0-96e7-eb782b6d3ab2": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1357696104.mp3?updated=1768966627",
+      "guid": "fa6e5a04-72d8-11f0-96e7-eb782b6d3ab2",
+      "publication_date": "2026-01-21",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Wall Street Sinks on Greenland Risk"
+    },
+    "fa816ca2-72d8-11f0-96e7-eb9b52fa7eee": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1888274510.mp3?updated=1769051496",
+      "guid": "fa816ca2-72d8-11f0-96e7-eb9b52fa7eee",
+      "publication_date": "2026-01-22",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Greenland Tariffs Are Off \u2014 Is There a Deal?"
+    },
+    "fa9410a0-72d8-11f0-96e7-af4041f4a2fe": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6516175645.mp3?updated=1769485308",
+      "guid": "fa9410a0-72d8-11f0-96e7-af4041f4a2fe",
+      "publication_date": "2026-01-27",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Gold Hits $5K \u2014 What\u2019s the Market Afraid Of?"
+    },
+    "faa9e1aa-72d8-11f0-96e7-dbb4831a9fce": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8882471653.mp3?updated=1769570600",
+      "guid": "faa9e1aa-72d8-11f0-96e7-dbb4831a9fce",
+      "publication_date": "2026-01-28",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "EU Strikes Deal With India in Shift From U.S."
+    },
+    "fabcd10c-72d8-11f0-96e7-13b8c2727bdb": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2602688550.mp3?updated=1769667423",
+      "guid": "fabcd10c-72d8-11f0-96e7-13b8c2727bdb",
+      "publication_date": "2026-01-29",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Fed Holds Rates \u2014 Inflation Back in Focus"
+    },
+    "facfb22c-72d8-11f0-96e7-1b217fee54f0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2905996539.mp3?updated=1770092395",
+      "guid": "facfb22c-72d8-11f0-96e7-1b217fee54f0",
+      "publication_date": "2026-02-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Markets Aren\u2019t Scared of Kevin Warsh"
+    },
+    "fae1d146-72d8-11f0-96e7-4fa0889dcfc1": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6341688925.mp3?updated=1770181215",
+      "guid": "fae1d146-72d8-11f0-96e7-4fa0889dcfc1",
+      "publication_date": "2026-02-04",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "SpaceX\u2019s $1.25 Trillion AI Bet"
+    },
+    "faf438ea-72d8-11f0-96e7-3f14a8cc4793": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4282963600.mp3?updated=1770262777",
+      "guid": "faf438ea-72d8-11f0-96e7-3f14a8cc4793",
+      "publication_date": "2026-02-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Google Doubles Down on Spending as AI Fear Returns"
+    },
+    "fb0869aa-72d8-11f0-96e7-af761ed563a9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3743079645.mp3?updated=1770696310",
+      "guid": "fb0869aa-72d8-11f0-96e7-af761ed563a9",
+      "publication_date": "2026-02-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Markets Can\u2019t Price AI"
+    },
+    "fb1b4ade-72d8-11f0-96e7-c335af378e71": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6063260595.mp3?updated=1770780768",
+      "guid": "fb1b4ade-72d8-11f0-96e7-c335af378e71",
+      "publication_date": "2026-02-11",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Google Goes All-In on the AI Arms Race"
+    },
+    "fb2e71f4-72d8-11f0-96e7-a31d395b20c9": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6378949010.mp3?updated=1770870880",
+      "guid": "fb2e71f4-72d8-11f0-96e7-a31d395b20c9",
+      "publication_date": "2026-02-12",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Jobs Report Is Worse Than It Looks"
+    },
+    "fb41607a-72d8-11f0-96e7-cffb2dbc942d": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9559640809.mp3?updated=1771390813",
+      "guid": "fb41607a-72d8-11f0-96e7-cffb2dbc942d",
+      "publication_date": "2026-02-18",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Netflix Dares Paramount to Bid Higher"
+    },
+    "fb54101c-72d8-11f0-96e7-63a68efb05ff": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6325387727.mp3?updated=1771472104",
+      "guid": "fb54101c-72d8-11f0-96e7-63a68efb05ff",
+      "publication_date": "2026-02-19",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "China\u2019s AI Is 20x Cheaper \u2014 And Catching Up"
+    },
+    "fb67de8a-72d8-11f0-96e7-bfb23b662786": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3237287441.mp3?updated=1771899255",
+      "guid": "fb67de8a-72d8-11f0-96e7-bfb23b662786",
+      "publication_date": "2026-02-24",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Billions in Tariff Refunds \u2014 Who Gets the Money?"
+    },
+    "fb7ad2d8-72d8-11f0-96e7-6bead6994eb8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6647475784.mp3?updated=1771988416",
+      "guid": "fb7ad2d8-72d8-11f0-96e7-6bead6994eb8",
+      "publication_date": "2026-02-25",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why a Doomsday AI Blog Wiped Out $300 Billion"
+    },
+    "fb8d6f38-72d8-11f0-96e7-67781b2d0dee": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5053429925.mp3?updated=1772083259",
+      "guid": "fb8d6f38-72d8-11f0-96e7-67781b2d0dee",
+      "publication_date": "2026-02-26",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia\u2019s Blowout Can\u2019t Calm AI Anxiety"
+    },
+    "fb9f99b0-72d8-11f0-96e7-4bddca61aa5f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3331967629.mp3?updated=1772508348",
+      "guid": "fb9f99b0-72d8-11f0-96e7-4bddca61aa5f",
+      "publication_date": "2026-03-03",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "War With Iran: Why Oil Didn\u2019t Spike As Expected"
+    },
+    "fbb08a2c-72d8-11f0-96e7-c34207f03573": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5633279016.mp3?updated=1772591071",
+      "guid": "fbb08a2c-72d8-11f0-96e7-c34207f03573",
+      "publication_date": "2026-03-04",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why The Iran War Could Reignite Inflation"
+    },
+    "fbc32b3c-72d8-11f0-96e7-7fb15e0aa5f8": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5309057039.mp3?updated=1772682347",
+      "guid": "fbc32b3c-72d8-11f0-96e7-7fb15e0aa5f8",
+      "publication_date": "2026-03-05",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "$500M Bet On The Iran Strike \u2014 Before It Happened"
+    },
+    "fbd58c82-72d8-11f0-96e7-43b8dc056e90": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8826079222.mp3?updated=1773108733",
+      "guid": "fbd58c82-72d8-11f0-96e7-43b8dc056e90",
+      "publication_date": "2026-03-10",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Iran War\u2019s Oil Shock \u2014 How Bad Could It Get?"
+    },
+    "fbe7328e-72d8-11f0-96e7-b712dffdb56f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7379382110.mp3?updated=1773197315",
+      "guid": "fbe7328e-72d8-11f0-96e7-b712dffdb56f",
+      "publication_date": "2026-03-11",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Pricing the Iran War's Future \u2014 Are Markets Right?"
+    },
+    "fbf99c62-72d8-11f0-96e7-c7f903c41dd0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5701536392.mp3?updated=1773277632",
+      "guid": "fbf99c62-72d8-11f0-96e7-c7f903c41dd0",
+      "publication_date": "2026-03-12",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "What $4 Gas Would Do to the Economy"
+    },
+    "fc0dfdb0-72d8-11f0-96e7-8fca3f8d7d06": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5162642433.mp3?updated=1773717819",
+      "guid": "fc0dfdb0-72d8-11f0-96e7-8fca3f8d7d06",
+      "publication_date": "2026-03-17",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why the Pentagon Is Hiring Wall Street Bankers"
+    },
+    "fc2516e4-72d8-11f0-96e7-6374752426cd": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4714720758.mp3?updated=1773798039",
+      "guid": "fc2516e4-72d8-11f0-96e7-6374752426cd",
+      "publication_date": "2026-03-18",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia Says $1T Is Coming \u2014 The Market Isn\u2019t Buying It"
+    },
+    "fc37020a-72d8-11f0-96e7-c73e4187f559": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4211510322.mp3?updated=1773884215",
+      "guid": "fc37020a-72d8-11f0-96e7-c73e4187f559",
+      "publication_date": "2026-03-19",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Your Bills Are About to Go Up \u2014 The Fed Can\u2019t Stop It"
+    },
+    "fc48a74e-72d8-11f0-96e7-73b878018b01": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9515399886.mp3?updated=1774313923",
+      "guid": "fc48a74e-72d8-11f0-96e7-73b878018b01",
+      "publication_date": "2026-03-24",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "$1T Moved on Iran \u201cTalks\u201d \u2014 Did They Even Happen?"
+    },
+    "fc5aa624-72d8-11f0-96e7-4fa735f596a7": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5392558373.mp3?updated=1774401059",
+      "guid": "fc5aa624-72d8-11f0-96e7-4fa735f596a7",
+      "publication_date": "2026-03-25",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Is the Oil Crisis About to Break Global Supply Chains?"
+    },
+    "fc6bf5f0-72d8-11f0-96e7-abdeeec6f462": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8179740845.mp3?updated=1774491920",
+      "guid": "fc6bf5f0-72d8-11f0-96e7-abdeeec6f462",
+      "publication_date": "2026-03-26",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The $1.5B Insider Trade Before Trump\u2019s Iran Post \u2014 ft. Anthony Scaramucci"
+    },
+    "fc72ce7c-3b18-11f0-aa8e-5ffae402b167": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3065490962.mp3?updated=1760413062",
+      "guid": "fc72ce7c-3b18-11f0-aa8e-5ffae402b167",
+      "publication_date": "2025-10-14",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Markets Rebound from China Tariff Threats, OpenAI\u2019s Broadcom Deal & JPM\u2019s America-First Plan"
+    },
+    "fc7e0600-72d8-11f0-96e7-e358bdf0669f": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8076982239.mp3?updated=1774918843",
+      "guid": "fc7e0600-72d8-11f0-96e7-e358bdf0669f",
+      "publication_date": "2026-03-31",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Big Tech Is Now Advising the White House \u2014 What Could Go Wrong?"
+    },
+    "fd8d3198-a928-11f0-946e-9f7fa9492f2b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9626212977.mp3?updated=1768789976",
+      "guid": "fd8d3198-a928-11f0-946e-9f7fa9492f2b",
+      "publication_date": "2026-01-19",
+      "skipped_at": "2026-04-25T13:57:43.601369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Why Trump\u2019s War Week Didn\u2019t Break Markets"
+    },
+    "fe34e846-fc0b-11ee-8dea-93a4db96493b": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5399152459.mp3?updated=1716202759",
+      "guid": "fe34e846-fc0b-11ee-8dea-93a4db96493b",
+      "publication_date": "2024-05-20",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "GameStop & Market Manipulation + Is AI Becoming a Bubble, and Is Nvidia Safe?"
+    },
+    "fe8f72c0-fc0b-11ee-8dea-df69cdc02249": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5311725917.mp3?updated=1716400078",
+      "guid": "fe8f72c0-fc0b-11ee-8dea-df69cdc02249",
+      "publication_date": "2024-05-23",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Goldilocks Economy & The Biggest Risk to the Market Right Now \u2014 with Josh Brown"
+    },
+    "fec49d56-fc0b-11ee-8dea-af26b1b123d3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4115944393.mp3?updated=1716782179",
+      "guid": "fec49d56-fc0b-11ee-8dea-af26b1b123d3",
+      "publication_date": "2024-05-27",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Nvidia\u2019s Blowout Earnings & Stock Split + Britain\u2019s Damaged Economy"
+    },
+    "fef9bb58-fc0b-11ee-8dea-8fc8adcab932": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2739125247.mp3?updated=1717031558",
+      "guid": "fef9bb58-fc0b-11ee-8dea-8fc8adcab932",
+      "publication_date": "2024-05-30",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Doomsday Inflation and a Bull Case for Bitcoin \u2014 with Lyn Alden"
+    },
+    "ff3267fa-fc0b-11ee-8dea-4323e21bf276": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7187460072.mp3?updated=1717351566",
+      "guid": "ff3267fa-fc0b-11ee-8dea-4323e21bf276",
+      "publication_date": "2024-06-03",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "OpenAI\u2019s New Content Deals + Latin America\u2019s Most Valuable Financial Institution"
+    },
+    "ff69e702-fc0b-11ee-8dea-4f44aa1491b0": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5456580902.mp3?updated=1717639810",
+      "guid": "ff69e702-fc0b-11ee-8dea-4f44aa1491b0",
+      "publication_date": "2024-06-06",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "Will Paramount & Skydance Merge? + A Visit with Sam Bankman Fried in Prison \u2014 ft. William Cohan"
+    },
+    "ffa1cdf2-fc0b-11ee-8dea-6bfab5e245c3": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1750090000.mp3?updated=1717975043",
+      "guid": "ffa1cdf2-fc0b-11ee-8dea-6bfab5e245c3",
+      "publication_date": "2024-06-10",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "The Texas Stock Exchange + Is Short Selling a Dying Strategy?"
+    },
+    "ffd86628-fc0b-11ee-8dea-63fc7f3018a4": {
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5845285055.mp3?updated=1718234451",
+      "guid": "ffd86628-fc0b-11ee-8dea-63fc7f3018a4",
+      "publication_date": "2024-06-13",
+      "skipped_at": "2026-04-25T13:57:43.602369Z",
+      "status": "skipped_initial_backfill",
+      "title": "How FOMO, Doom, and Ego Impact Your Money \u2014 ft. Morgan Housel"
+    }
+  },
+  "initialized": true,
+  "version": 1
+}

@@ -36,7 +36,7 @@ Run for real:
 
 ## GitHub Actions
 
-The workflow in `.github/workflows/profg-transcript.yml` runs daily at 8:30 AM ET and can also be triggered manually. Add these repository secrets before enabling it:
+The workflow in `.github/workflows/profg-transcript.yml` runs on the UTC times that correspond to 8:30 AM ET in standard time and daylight time. Both scheduled runs are allowed to execute; `sent_episodes.json` prevents duplicate emails if the other run already processed the latest episode. It can also be triggered manually. Add these repository secrets before enabling it:
 
 - `GROQ_API_KEY`
 - `RESEND_API_KEY`

@@ -501,7 +501,7 @@ def parse_recipient_list(value: str) -> str | list[str]:
 
 
 def build_email_subject(episode: Episode) -> str:
-    return f"{episode.publication_date:%Y-%m-%d} ProfGMkts Transcript - {episode.title}"
+    return f"{episode.publication_date:%Y-%m-%d} ProfGMkts Transcript: {episode.title}"
 
 
 def build_email_body(episode: Episode) -> str:

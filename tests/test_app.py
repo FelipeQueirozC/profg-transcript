@@ -129,7 +129,7 @@ class ProfGTranscriptTests(unittest.TestCase):
 
         self.assertEqual(
             subject,
-            "2026-04-24 ProfGMkts Transcript [Latest & Greatest Episode]",
+            "2026-04-24 ProfGMkts Transcript: Latest & Greatest Episode",
         )
         self.assertIn("Title: Latest & Greatest Episode", body)
         self.assertIn("Publication Date: 2026-04-24", body)
